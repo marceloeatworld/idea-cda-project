@@ -1,0 +1,625 @@
+Janvier 🥝
+Les légumes :
+
+    Ail
+    Betterave
+    Carotte
+    Chou
+    Courge
+    Crosne
+    Céleri
+    Endive
+    Frisée
+    Mâche
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Salsifi
+    Topinambour
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Merlu
+    Mostelle
+    Poulpe
+    Marlin
+    Thazard
+    Balaou
+
+Les fruits :
+
+    Citron
+    Clémentine
+    Kiwi
+    Mandarine
+    Orange
+    Pamplemousse
+    Poire
+    Pomme
+
+Février 🍋
+Les légumes :
+
+    Ail
+    Betterave
+    Carotte
+    Crosne
+    Céleri
+    Endive
+    Frisée
+    Mâche
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Radis
+    Salsifi
+    Topinambour
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Merlan
+    Lieu noir
+    Flétan
+    Raie
+    Limande
+    Merlu
+    Poulpe
+    Thon jaune
+    Carangue
+
+Les fruits :
+
+    Citron
+    Clémentine
+    Kiwi
+    Mandarine
+    Orange
+    Pamplemousse
+    Poire
+    Pomme
+
+Mars 🍏
+Les légumes :
+
+    Ail
+    Asperge
+    Betterave
+    Blette
+    Carotte
+    Chou
+    Chou de Bruxelles
+    Chou-fleur
+    Crosne
+    Céleri
+    Endive
+    Frisée
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Radis
+    Salsifi
+    Topinambour
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Thon jaune
+    Dorade coryphène
+
+Les fruits :
+
+    Citron
+    Kiwi
+    Orange
+    Pamplemousse
+    Poire
+    Pomme
+
+Avril 🍐
+Les légumes :
+
+    Ail
+    Artichaut
+    Asperge
+    Betterave
+    Blette
+    Carotte
+    Chou-fleur
+    Concombre
+    Céleri
+    Endive
+    Frisée
+    Laitue
+    Navet
+    Oignon
+    Petit pois
+    Poireau
+    Pomme de terre
+    Radis
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Citron
+    Pamplemousse
+    Pomme
+
+Mai 🍓
+Les légumes :
+
+    Ail
+    Artichaut
+    Asperge
+    Aubergine
+    Betterave
+    Blette
+    Carotte
+    Chou-fleur
+    Concombre
+    Courgette
+    Céleri
+    Laitue
+    Navet
+    Oignon
+    Petit pois
+    Pomme de terre primeur
+    Radis
+    Tomate
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Cerise
+    Fraise
+    Pamplemousse
+    Rhubarbe
+
+Juin 🍑
+Les légumes :
+
+    Ail
+    Artichaut
+    Asperge
+    Aubergine
+    Betterave
+    Blette
+    Brocoli
+    Carotte
+    Concombre
+    Courgette
+    Céleri
+    Fenouil
+    Haricot vert
+    Laitue
+    Navet
+    Oignon
+    Petit pois
+    Poivron
+    Pomme de terre primeur
+    Radis
+    Tomate
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Abricot
+    Cassis
+    Cerise
+    Citron
+    Fraise
+    Framboise
+    Groseille
+    Melon
+    Pamplemousse
+    Pastèque
+    Pomme
+    Prune
+    Pêche
+    Rhubarbe
+
+Juillet 🍒
+Les légumes :
+
+    Ail
+    Artichaut
+    Asperge
+    Aubergine
+    Betterave
+    Blette
+    Brocoli
+    Carotte
+    Concombre
+    Courgette
+    Céleri
+    Fenouil
+    Haricot vert
+    Laitue
+    Maïs
+    Oignon
+    Petit pois
+    Poivron
+    Pomme de terre primeur
+    Radis
+    Tomate
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Abricot
+    Cassis
+    Cerise
+    Figue
+    Fraise
+    Framboise
+    Féveroles et fèves
+    Groseille
+    Melon
+    Myrtille
+    Nectarine
+    Orge d’hiver
+    Pastèque
+    Poire
+    Prune
+    Pêche
+    Rhubarbe
+
+Août 🍉
+Les légumes :
+
+    Ail
+    Artichaut
+    Aubergine
+    Betterave
+    Blette
+    Brocoli
+    Carotte
+    Concombre
+    Courge
+    Courgette
+    Céleri
+    Fenouil
+    Frisée
+    Haricot vert
+    Laitue
+    Maïs
+    Oignon
+    Poivron
+    Pomme de terre primeur
+    Radis
+    Tomate
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Abricot
+    Cassis
+    Figue
+    Fraise
+    Framboise
+    Féveroles et fèves
+    Groseille
+    Melon
+    Mirabelle
+    Myrtille
+    Mûre
+    Nectarine
+    Noisette
+    Pastèque
+    Poire
+    Pomme
+    Prune
+    Pruneau
+    Pêche
+    Raisin
+
+Septembre 🍇
+Les légumes :
+
+    Ail
+    Artichaut
+    Aubergine
+    Betterave
+    Blette
+    Brocoli
+    Carotte
+    Chou
+    Chou de bruxelles
+    Chou-fleur
+    Concombre
+    Courgette
+    Céleri
+    Fenouil
+    Frisée
+    Haricot vert
+    Laitue
+    Maïs
+    Oignon
+    Panais
+    Poireau
+    Poivron
+    Pomme de terre
+    Potiron
+    Radis
+    Tomate
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Coing
+    Figue
+    Melon
+    Mirabelle
+    Myrtille
+    Mûre
+    Noisette
+    Noix
+    Pastèque
+    Poire
+    Pomme
+    Prune
+    Pruneau
+    Pêche
+    Raisin
+
+Octobre 🌰
+Les légumes :
+
+    Ail
+    Aubergine
+    Betterave
+    Blette
+    Brocoli
+    Carotte
+    Chou
+    Chou de Bruxelles
+    Chou-fleur
+    Concombre
+    Courge
+    Courgette
+    Céleri
+    Endive
+    Fenouil
+    Frisée
+    Haricot vert
+    Laitue
+    Maïs
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Potiron
+    Radis
+   Rutabaga
+    Salsifi
+    Tomate
+    Topinambour
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Châtaigne
+    Citron
+    Coing
+    Figue
+    Framboise
+    Myrtille
+    Noisette
+    Noix
+    Poire
+    Pomme
+    Raisin
+
+Novembre 🍊
+Les légumes :
+
+    Ail
+    Betterave
+    Brocoli
+    Cardon
+    Carotte
+    Chou
+    Chou-fleur
+    Citrouille
+    Courge
+    Crosne
+    Céleri
+    Endive
+    Fenouil
+    Épinard
+    Mâche
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Potiron
+    Radis
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Châtaigne
+    Citron
+    Clémentine
+    Coing
+    Kiwi
+    Mandarine
+    Orange
+    Poire
+    Pomme
+
+Décembre 🎁
+Les légumes :
+
+    Ail
+    Betterave
+    Carotte
+    Chou
+    Chou de Bruxelles
+    Courge
+    Crosne
+    Céleri
+    Endive
+    Frisée
+    Mâche
+    Navet
+    Oignon
+    Panais
+    Poireau
+    Pomme de terre
+    Potiron
+    Radis
+    Rutabaga
+    Salsifi
+    Topinambour
+    Épinard
+
+Les poissons :
+
+    Cabillaud
+    Lieu noir
+    Merlan
+    Flétan
+    Raie
+    Limande
+    Loup de mer
+    Daurade royale
+    Espadon
+    Thon rouge
+
+Les fruits :
+
+    Châtaigne
+    Citron
+    Clémentine
+    Féveroles et fèves
+    Kiwi
+    Mandarine
+    Orange
+    Poire
+    Pomme

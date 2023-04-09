@@ -1,0 +1,27 @@
+Bretagne/Atlantique :
+
+    Hiver : Lieu noir, Merlan, Cabillaud, Coquilles Saint-Jacques, Congre, Grondin, Lotte
+    Printemps : Bar, Sole, Tourteau, Amandes de mer, Seiche, Tacaud, Turbot
+    Été : Maquereau, Sardine, Thon, Moules, Langoustine, Églefin, Chinchard
+    Automne : Dorade grise, Rouget, Hareng, Huîtres, Crevettes roses, Calamars, Saumon
+
+Manche/Mer du Nord :
+
+    Hiver : Merlan, Cabillaud, Flétan, Bulots, Éperlan, Raie, Morue
+    Printemps : Raie, Limande, Homard, Palourdes, Langouste, Étrille, Grondin
+    Été : Sole, Plie, Crevettes grises, Moules, Bar, Aiguillette, Ormeau
+    Automne : Hareng, Dorade grise, Saint-Pierre, Huîtres, Coquilles Saint-Jacques, Sepia, Turbot
+
+Méditerranée :
+
+    Hiver : Poulpe, Merlu, Mostelle, Oursins, Mulet, Dentex, Congre
+    Printemps : Loup de mer, Daurade royale, Langoustines, Tellines, Chapon, Seiche, Rascasse
+    Été : Espadon, Thon rouge, Sardine, Crevettes roses, Muge, Marmite, Dorade rose
+    Automne : Sériole, Rouget, Anchois, Palourdes, Pagre, Girelle, Langouste
+
+Outremer (la disponibilité peut varier en fonction des territoires) :
+
+    Hiver : Marlin, Thazard, Balaou, Lambi, Requin, Carpe rouge, Liche
+    Printemps : Thon jaune, Carangue, Dorade coryphène, Crabe, Sériole, Langouste, Perche
+    Été : Mahi-mahi, Barracuda, Bonite, Langouste, Poisson-lune, Mulet, Dorade tropicale
+    Automne : Vivaneau, Capitaine, Coryphène, Oursins, Bécune, Chabot, Brochet marin
