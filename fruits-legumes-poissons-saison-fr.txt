@@ -489,7 +489,7 @@ Les légumes :
     Pomme de terre
     Potiron
     Radis
-   Rutabaga
+    Rutabaga
     Salsifi
     Tomate
     Topinambour
