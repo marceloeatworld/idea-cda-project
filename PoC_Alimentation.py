@@ -250,36 +250,210 @@ groupes_aliments_pauvre_glucides = {
 
 fruits_legumes_saisonniers = {
     "printemps": {
-        "fruits": ["fraises", "cerises", "abricots", "pêches", "nectarines", "rhubarbe", "groseilles", "framboises", "amandes"],
-        "legumes": ["asperges", "petits pois", "épinards", "radis", "artichauts", "laitue", "oignons nouveaux", "poireaux", "navets", "carottes", "chou-fleur", "fèves", "roquette", "cresson", "ail des ours"],
+            "fruits": [
+            {"fraise": {"calories": 33, "protéines": 0.7, "lipides": 0.3, "glucides": 7.7}},
+            {"cerise": {"calories": 63, "protéines": 1.1, "lipides": 0.3, "glucides": 13}},
+            {"abricot": {"calories": 48, "protéines": 1, "lipides": 0.4, "glucides": 11}},
+            {"pêche": {"calories": 39, "protéines": 0.9, "lipides": 0.3, "glucides": 9}},
+            {"nectarine": {"calories": 44, "protéines": 1, "lipides": 0.4, "glucides": 10}},
+            {"rhubarbe": {"calories": 21, "protéines": 0.9, "lipides": 0.2, "glucides": 4}},
+            {"groseille": {"calories": 33, "protéines": 1.4, "lipides": 0.2, "glucides": 5}},
+            {"framboise": {"calories": 26, "protéines": 1.2, "lipides": 0.5, "glucides": 5}},
+            {"amande": {"calories": 576, "protéines": 21, "lipides": 49, "glucides": 22}}
+            ],
+      "légumes": [
+            {"asperge": {"calories": 20, "protéines": 2.2, "lipides": 0.2, "glucides": 3}},
+            {"petit pois": {"calories": 81, "protéines": 5.2, "lipides": 0.5, "glucides": 14}},
+            {"épinard": {"calories": 23, "protéines": 2.9, "lipides": 0.4, "glucides": 1.8}},
+            {"radis": {"calories": 14, "protéines": 0.7, "lipides": 0.1, "glucides": 2}},
+            {"artichaut": {"calories": 47, "protéines": 3.3, "lipides": 0.2, "glucides": 10}},
+            {"laitue": {"calories": 14, "protéines": 1.4, "lipides": 0.2, "glucides": 2}},
+            {"oignon nouveau": {"calories": 32, "protéines": 1.3, "lipides": 0.2, "glucides": 6}},
+            {"poireau": {"calories": 61, "protéines": 2.2, "lipides": 0.3, "glucides": 12}},
+            {"navet": {"calories": 28, "protéines": 1.1, "lipides": 0.2, "glucides": 5}},
+            {"carotte": {"calories": 41, "protéines": 0.9, "lipides": 0.2, "glucides": 8}},
+            {"chou-fleur": {"calories": 23, "protéines": 2, "lipides": 0.3, "glucides": 2}},
+            {"fève": {"calories": 88, "protéines": 7.6, "lipides": 0.4, "glucides": 12}},
+            {"roquette": {"calories": 25, "protéines": 2.6, "lipides": 0.7, "glucides": 2}},
+            {"cresson": {"calories": 21, "protéines": 2.8, "lipides": 0.4, "glucides": 0.7}},
+            {"ail des ours": {"calories": 47, "protéines": 3, "lipides": 0.5, "glucides": 0.8}}
+            ]
     },
     "ete": {
-        "fruits": ["pêches", "nectarines", "melons", "framboises", "myrtilles", "abricots", "cerises", "mûres", "prunes", "raisins", "pastèques", "pommes", "poires", "figues", "groseilles", "cassis"],
-        "legumes": ["tomates", "courgettes", "poivrons", "aubergines", "concombres", "haricots verts", "radis", "betteraves", "maïs", "carottes", "oïl des ours", "fenouil", "chou-rave", "salades", "épinards", "oseille", "patates douces"],
+      "fruits": [
+{"pêche": {"calories": 39, "protéines": 0.9, "lipides": 0.3, "glucides": 9}},
+{"nectarine": {"calories": 44, "protéines": 1, "lipides": 0.4, "glucides": 10}},
+{"melon": {"calories": 34, "protéines": 0.9, "lipides": 0.2, "glucides": 8}},
+{"framboise": {"calories": 26, "protéines": 1.2, "lipides": 0.5, "glucides": 5}},
+{"myrtille": {"calories": 57, "protéines": 0.7, "lipides": 0.3, "glucides": 14}},
+{"abricot": {"calories": 48, "protéines": 1, "lipides": 0.4, "glucides": 11}},
+{"cerise": {"calories": 63, "protéines": 1.1, "lipides": 0.3, "glucides": 13}},
+{"mûre": {"calories": 43, "protéines": 1.4, "lipides": 0.5, "glucides": 7}},
+{"prune": {"calories": 46, "protéines": 0.9, "lipides": 0.2, "glucides": 11}},
+{"raisin": {"calories": 69, "protéines": 0.7, "lipides": 0.2, "glucides": 18}},
+{"pastèque": {"calories": 30, "protéines": 0.6, "lipides": 0.2, "glucides": 7}},
+{"pomme": {"calories": 52, "protéines": 0.3, "lipides": 0.2, "glucides": 14}},
+{"poire": {"calories": 57, "protéines": 0.4, "lipides": 0.2, "glucides": 15}},
+{"figue": {"calories": 74, "protéines": 0.8, "lipides": 0.3, "glucides": 19}},
+{"groseille": {"calories": 33, "protéines": 1.4, "lipides": 0.2, "glucides": 5}},
+{"cassis": {"calories": 43, "protéines": 1.4, "lipides": 0.4, "glucides": 8}}
+],
+      "légumes": [
+{"tomate": {"calories": 18, "protéines": 0.9, "lipides": 0.2, "glucides": 3.5}},
+{"courgette": {"calories": 19, "protéines": 1.2, "lipides": 0.3, "glucides": 3}},
+{"poivron": {"calories": 31, "protéines": 1.3, "lipides": 0.4, "glucides": 5}},
+{"aubergine": {"calories": 25, "protéines": 1, "lipides": 0.2, "glucides": 6}},
+{"concombre": {"calories": 12, "protéines": 0.7, "lipides": 0.1, "glucides": 2}},
+{"haricot vert": {"calories": 31, "protéines": 1.9, "lipides": 0.2, "glucides": 5}},
+{"radis": {"calories": 14, "protéines": 0.7, "lipides": 0.1, "glucides": 2}},
+{"betterave": {"calories": 43, "protéines": 1.6, "lipides": 0.1, "glucides": 10}},
+{"maïs": {"calories": 86, "protéines": 3.5, "lipides": 1.5, "glucides": 14}},
+{"carotte": {"calories": 41, "protéines": 0.9, "lipides": 0.2, "glucides": 8}},
+{"ail des ours": {"calories": 47, "protéines": 3, "lipides": 0.5, "glucides": 0.8}},
+{"fenouil": {"calories": 31, "protéines": 1.2, "lipides": 0.2, "glucides": 7}},
+{"chou-rave": {"calories": 27, "protéines": 1.6, "lipides": 0.1, "glucides": 5}},
+{"salade": {"calories": 14, "protéines": 1.4, "lipides": 0.2, "glucides": 2}},
+{"épinard": {"calories": 23, "protéines": 2.9, "lipides": 0.4, "glucides": 1.8}},
+{"oseille": {"calories": 22, "protéines": 2, "lipides": 0.5, "glucides": 2}},
+{"patate douce": {"calories": 86, "protéines": 1.6, "lipides": 0.1, "glucides": 20}}
+]
     },
     "automne": {
-        "fruits": ["pommes", "poires", "raisins", "prunes", "coings", "noix", "noisettes", "amandes", "châtaignes", "mûres", "kakis", "figues", "grenades", "cynorhodons"],
-        "legumes": ["chou", "potiron", "brocoli", "betteraves", "navets", "haricots verts", "panais", "poireaux", "champignons", "citrouille", "patates douces", "topinambours", "courges", "céleri-rave", "carottes", "radis", "épinards"],
+       "fruits": [
+{"pomme": {"calories": 52, "protéines": 0.3, "lipides": 0.2, "glucides": 14}},
+{"poire": {"calories": 57, "protéines": 0.4, "lipides": 0.2, "glucides": 15}},
+{"raisin": {"calories": 69, "protéines": 0.7, "lipides": 0.2, "glucides": 18}},
+{"prune": {"calories": 46, "protéines": 0.9, "lipides": 0.2, "glucides": 11}},
+{"coing": {"calories": 63, "protéines": 0.6, "lipides": 0.1, "glucides": 15}},
+{"noix": {"calories": 654, "protéines": 15.2, "lipides": 65.2, "glucides": 13}},
+{"noisette": {"calories": 628, "protéines": 14, "lipides": 61.3, "glucides": 16.7}},
+{"amande": {"calories": 579, "protéines": 21.2, "lipides": 49.9, "glucides": 21.7}},
+{"châtaigne": {"calories": 213, "protéines": 2.7, "lipides": 2.2, "glucides": 46}},
+{"mûre": {"calories": 43, "protéines": 1.4, "lipides": 0.5, "glucides": 7}},
+{"kaki": {"calories": 71, "protéines": 0.6, "lipides": 0.2, "glucides": 18}},
+{"figue": {"calories": 74, "protéines": 0.8, "lipides": 0.3, "glucides": 19}},
+{"grenade": {"calories": 83, "protéines": 1.2, "lipides": 1.2, "glucides": 19}},
+{"cynorhodon": {"calories": 162, "protéines": 1.6, "lipides": 0.7, "glucides": 38}}
+],
+"légumes": [
+{"chou": {"calories": 27, "protéines": 1.4, "lipides": 0.1, "glucides": 5.2}},
+{"potiron": {"calories": 20, "protéines": 1, "lipides": 0.1, "glucides": 4}},
+{"brocoli": {"calories": 34, "protéines": 4, "lipides": 0.4, "glucides": 2.8}},
+{"betterave": {"calories": 43, "protéines": 1.6, "lipides": 0.1, "glucides": 10}},
+{"navet": {"calories": 20, "protéines": 1, "lipides": 0.1, "glucides": 4}},
+{"haricot vert": {"calories": 31, "protéines": 1.9, "lipides": 0.2, "glucides": 5}},
+{"panais": {"calories": 75, "protéines": 1.4, "lipides": 0.3, "glucides": 18}},
+{"poireau": {"calories": 61, "protéines": 2.3, "lipides": 0.3, "glucides": 12}},
+{"champignon": {"calories": 22, "protéines": 3.1, "lipides": 0.3, "glucides": 0.2}},
+{"citrouille": {"calories": 26, "protéines": 1, "lipides": 0.1, "glucides": 6}},
+{"patate douce": {"calories": 86, "protéines": 1.6, "lipides": 0.1, "glucides": 20}},
+{"topinambour": {"calories": 73, "protéines": 2, "lipides": 0.4, "glucides": 16}},
+{"courge": {"calories": 26, "protéines": 1, "lipides": 0.1, "glucides": 6}},
+{"céleri-rave": {"calories": 42, "protéines": 1.5, "lipides": 0.3, "glucides": 8}},
+{"carotte": {"calories": 41, "protéines": 0.9, "lipides": 0.2, "glucides": 8}},
+{"radis": {"calories": 14, "protéines": 0.7, "lipides": 0.1, "glucides": 2}},
+{"épinard": {"calories": 23, "protéines": 2.9, "lipides": 0.4, "glucides": 0.4}}],
     },
     "hiver": {
-        "fruits": ["oranges", "clémentines", "kiwis", "pommes", "poires", "mandarines", "citrons", "bananes", "ananas", "grenades", "dattes", "noix", "noisettes", "pamplemousses", "avocats"],
-        "legumes": ["choux de Bruxelles", "navets", "poireaux", "carottes", "endives", "choux", "choux-fleurs", "brocoli", "betteraves", "céleri", "épinards", "blettes", "scarole", "frisée", "mâche", "oignons", "ail", "pommes de terre"],
+"fruits": [
+{"orange": {"calories": 47, "protéines": 0.9, "lipides": 0.2, "glucides": 11}},
+{"clémentine": {"calories": 47, "protéines": 0.9, "lipides": 0.2, "glucides": 11}},
+{"kiwi": {"calories": 61, "protéines": 1.1, "lipides": 0.6, "glucides": 14}},
+{"pomme": {"calories": 52, "protéines": 0.3, "lipides": 0.2, "glucides": 14}},
+{"poire": {"calories": 57, "protéines": 0.4, "lipides": 0.2, "glucides": 15}},
+{"mandarine": {"calories": 53, "protéines": 0.8, "lipides": 0.3, "glucides": 12}},
+{"citron": {"calories": 29, "protéines": 1.1, "lipides": 0.3, "glucides": 9}},
+{"banane": {"calories": 89, "protéines": 1.1, "lipides": 0.3, "glucides": 23}},
+{"ananas": {"calories": 50, "protéines": 0.5, "lipides": 0.1, "glucides": 13}},
+{"grenade": {"calories": 83, "protéines": 1.2, "lipides": 1.2, "glucides": 19}},
+{"datte": {"calories": 282, "protéines": 2.5, "lipides": 0.5, "glucides": 75}},
+{"noix": {"calories": 654, "protéines": 15.2, "lipides": 65.2, "glucides": 13}},
+{"noisette": {"calories": 628, "protéines": 14, "lipides": 61.3, "glucides": 16.7}},
+{"pamplemousse": {"calories": 42, "protéines": 0.7, "lipides": 0.1, "glucides": 10}},
+{"avocat": {"calories": 160, "protéines": 2, "lipides": 15, "glucides": 9}}
+],
+        "legumes": [
+{"choux de Bruxelles": {"calories": 43, "protéines": 3.8, "lipides": 0.5, "glucides": 7.9}},
+{"navet": {"calories": 20, "protéines": 1, "lipides": 0.1, "glucides": 4}},
+{"poireau": {"calories": 61, "protéines": 2.3, "lipides": 0.3, "glucides": 12}},
+{"carotte": {"calories": 41, "protéines": 0.9, "lipides": 0.2, "glucides": 8}},
+{"endive": {"calories": 17, "protéines": 1.1, "lipides": 0.2, "glucides": 2.2}},
+{"chou": {"calories": 27, "protéines": 1.4, "lipides": 0.1, "glucides": 5.2}},
+{"chou-fleur": {"calories": 25, "protéines": 2, "lipides": 0.3, "glucides": 4}},
+{"brocoli": {"calories": 34, "protéines": 4, "lipides": 0.4, "glucides": 2.8}},
+{"betterave": {"calories": 43, "protéines": 1.6, "lipides": 0.1, "glucides": 10}},
+{"céleri": {"calories": 16, "protéines": 0.7, "lipides": 0.2, "glucides": 3}},
+{"épinard": {"calories": 23, "protéines": 2.9, "lipides": 0.4, "glucides": 0.4}},
+{"blette": {"calories": 19, "protéines": 2.3, "lipides": 0.3, "glucides": 1.2}},
+{"scarole": {"calories": 17, "protéines": 1.5, "lipides": 0.2, "glucides": 2.8}},
+{"frisée": {"calories": 15, "protéines": 1.5, "lipides": 0.2, "glucides": 1.1}},
+{"mâche": {"calories": 22, "protéines": 2, "lipides": 0.3, "glucides": 2}},
+{"oignon": {"calories": 40, "protéines": 1.1, "lipides": 0.1, "glucides": 9}},
+{"ail": {"calories": 149, "protéines": 6.4, "lipides": 0.5, "glucides": 33}},
+{"pomme de terre": {"calories": 77, "protéines": 2, "lipides": 0.1, "glucides": 17}}
+],
     },
 }
 collations = {
-    "fruits": ["pomme", "banane", "orange", "fraises", "kiwi", "raisins", "ananas", "mangue"],
-    "nuts_and_seeds": ["amandes", "noix", "noisettes", "graines de tournesol", "graines de citrouille", "pistaches"],
-    "yogurts": ["yaourt nature", "yaourt aux fruits", "yaourt grec", "yaourt végétal"],
-    "bars": ["barre de céréales", "barre de granola", "barre énergétique", "barre protéinée"],
+    "fruits": [
+{"pomme": {"calories": 52, "protéines": 0.3, "lipides": 0.2, "glucides": 14}},
+{"banane": {"calories": 89, "protéines": 1.1, "lipides": 0.3, "glucides": 23}},
+{"orange": {"calories": 47, "protéines": 0.9, "lipides": 0.2, "glucides": 11}},
+{"fraise": {"calories": 33, "protéines": 0.7, "lipides": 0.5, "glucides": 7}},
+{"kiwi": {"calories": 61, "protéines": 1.1, "lipides": 0.6, "glucides": 14}},
+{"raisin": {"calories": 69, "protéines": 0.7, "lipides": 0.2, "glucides": 18}},
+{"ananas": {"calories": 50, "protéines": 0.5, "lipides": 0.1, "glucides": 13}},
+{"mangue": {"calories": 60, "protéines": 0.8, "lipides": 0.4, "glucides": 15}}
+],
+    "nuts_and_seeds": [
+{"amande": {"calories": 579, "protéines": 21, "lipides": 50, "glucides": 22}},
+{"noix": {"calories": 654, "protéines": 15, "lipides": 65, "glucides": 14}},
+{"noisette": {"calories": 628, "protéines": 14, "lipides": 62, "glucides": 17}},
+{"graines de tournesol": {"calories": 584, "protéines": 21, "lipides": 51, "glucides": 20}},
+{"graines de citrouille": {"calories": 559, "protéines": 30, "lipides": 49, "glucides": 11}},
+{"pistache": {"calories": 557, "protéines": 20, "lipides": 45, "glucides": 27}}
+],  
+ "yogurts": [
+{"yaourt nature": {"calories": 63, "protéines": 4.1, "lipides": 3.5, "glucides": 4.7}},
+{"yaourt aux fruits": {"calories": 83, "protéines": 3.1, "lipides": 2.9, "glucides": 12.6}},
+{"yaourt grec": {"calories": 133, "protéines": 9, "lipides": 10, "glucides": 3.5}},
+{"yaourt végétal": {"calories": 60, "protéines": 1.5, "lipides": 2.5, "glucides": 7.5}}
+],
+
+"bars": [
+{"barre de céréales": {"calories": 120, "protéines": 2, "lipides": 3, "glucides": 21}},
+{"barre de granola": {"calories": 118, "protéines": 3, "lipides": 5, "glucides": 16}},
+{"barre énergétique": {"calories": 250, "protéines": 10, "lipides": 9, "glucides": 33}},
+{"barre protéinée": {"calories": 220, "protéines": 20, "lipides": 7, "glucides": 22}}
+]
 }
 
 boissons = {
-    "eau": ["eau plate", "eau gazeuse"],
-    "the_cafe": ["thé", "café", "tisane", "infusion"],
-    "jus": ["jus d'orange", "jus de pomme", "jus de raisin", "jus de tomate", "jus d'ananas", "jus de mangue"],
-    "boissons_vegetales": ["lait d'amande", "lait de soja", "lait de coco", "lait de riz"],
+"eau": [
+{"eau plate": {"calories": 0, "protéines": 0, "lipides": 0, "glucides": 0}},
+{"eau gazeuse": {"calories": 0, "protéines": 0, "lipides": 0, "glucides": 0}}
+],
+   "the_cafe": [
+{"thé": {"calories": 1, "protéines": 0, "lipides": 0, "glucides": 0.2}},
+{"café": {"calories": 1, "protéines": 0.1, "lipides": 0, "glucides": 0}},
+{"tisane": {"calories": 0, "protéines": 0, "lipides": 0, "glucides": 0}},
+{"infusion": {"calories": 0, "protéines": 0, "lipides": 0, "glucides": 0}}
+],
+"jus": [
+{"jus d'orange": {"calories": 46, "protéines": 0.7, "lipides": 0.2, "glucides": 10}},
+{"jus de pomme": {"calories": 50, "protéines": 0.1, "lipides": 0, "glucides": 13}},
+{"jus de raisin": {"calories": 70, "protéines": 0.5, "lipides": 0.2, "glucides": 17}},
+{"jus de tomate": {"calories": 17, "protéines": 0.9, "lipides": 0.2, "glucides": 3.5}},
+{"jus d'ananas": {"calories": 50, "protéines": 0.5, "lipides": 0, "glucides": 12}},
+{"jus de mangue": {"calories": 65, "protéines": 0.7, "lipides": 0.4, "glucides": 15}}
+],
+"boissons_vegetales": [
+{"lait d'amande": {"calories": 36, "protéines": 1, "lipides": 3, "glucides": 1}},
+{"lait de soja": {"calories": 54, "protéines": 3.3, "lipides": 1.8, "glucides": 4}},
+{"lait de coco": {"calories": 230, "protéines": 2, "lipides": 24, "glucides": 5}},
+{"lait de riz": {"calories": 47, "protéines": 0.3, "lipides": 1, "glucides": 9.7}}
+],
 }
-
 
 def determiner_saison(date):
     if date.month in [3, 4, 5]:
