@@ -1,0 +1,1034 @@
+IdIngredient;IngredientNameFR;IngredientSynonymFR;CategoryFR;ContituentIngredientsFR
+0;Œuf;œuf;Viande;Œuf
+2;Pain;"pain ; brioche";Boulangerie;Pain
+3;Pain de seigle;pain-rye;Boulangerie;Pain de seigle
+4;Pain de blé;pain-blé;Boulangerie;Pain de blé
+5;Pain blanc;"pain-blanc ; baguette";Boulangerie;Pain blanc
+6;Pain de blé entier;pain-entier-blé;Boulangerie;Pain de blé entier
+7;Wort;moût;Boissons;Wort
+8;Arrack;"arrack ; arak";Boissons alcoolisées;Arrack
+9;Bière;"bière ; lager";Boissons alcoolisées;Bière
+10;Bière bantoue;"bière bantoue ; bière kaffir";Boissons alcoolisées;Bière bantoue
+11;Brandy;eau-de-vie;Boissons alcoolisées;Brandy
+12;Eau-de-vie d'anis;brandy-anis;Boissons alcoolisées;Eau-de-vie d'anis
+13;Brandy de pomme;brandy-pomme;Boissons alcoolisées;Brandy de pomme
+14;Brandy d'armagnac;armagnac-brandy;Boissons alcoolisées;Brandy d'armagnac
+15;Brandy de mûre;brandy-mûre;Boissons alcoolisées;Brandy de mûre
+16;Brandy de cerise;brandy-cerise;Boissons alcoolisées;Brandy de cerise
+17;Cognac Brandy;brandy-cognac;Boissons alcoolisées;Cognac Brandy
+18;Brandy de papaye;brandy-papaye;Boissons alcoolisées;Brandy de papaye
+19;Poire Brandy;"brandy-poire ; palinka ; poire williams ; rakia";Boissons alcoolisées;Poire Brandy
+20;Brandy de prune;"brandy-prune ; slivovitz ; tuica ; ljivovica ; asliwowica ; schlivowitz";Boissons alcoolisées;Brandy de prune
+21;Brandy de framboise;framboise-brandy;Boissons alcoolisées;Brandy de framboise
+22;Brandy Weinbrand;weinbrand-brandy;Boissons alcoolisées;Brandy Weinbrand
+23;Gin;gin;Boissons alcoolisées;Gin
+24;Rhum;rhum;Boissons alcoolisées;Rhum
+25;Whisky;"whisky ; whiskey";Boissons alcoolisées;Whisky
+26;Whisky Bourbon;"bourbon-whisky ; bourbon-whiskey";Boissons alcoolisées;Whisky Bourbon
+27;Whisky canadien;"canadian-whisky ; canadian-whiskey";Boissons alcoolisées;Whisky canadien
+28;Whisky finlandais;"finnish-whisky ; finnish-whiskey";Boissons alcoolisées;Whisky finlandais
+29;Whisky japonais;"whisky japonais ; whisky japonais";Boissons alcoolisées;Whisky japonais
+30;Whisky de malt;"whisky-malt ; whisky-malt";Boissons alcoolisées;Whisky de malt
+31;Scotch;scotch;Boissons alcoolisées;Scotch
+32;Vin;vin;Boissons alcoolisées;Vin
+33;Vin de myrtille;vin de myrtille;Boissons alcoolisées;Vin de myrtille
+34;Vin botrytisé;vin botrytisé;Boissons alcoolisées;Vin botrytisé
+35;Champagne;champagne;Boissons alcoolisées;Champagne
+36;Cidre;cidre;Boissons alcoolisées;Cidre
+37;Vin de Prune;vin de prune;Boissons alcoolisées;Vin de Prune
+38;Vin de Porto;"porto-wine ; vinho do porto";Boissons alcoolisées;Vin de Porto
+39;Vin rouge;vin-rouge;Boissons alcoolisées;Vin rouge
+40;Vin rosé;"rose-wine ; rosada";Boissons alcoolisées;Vin rosé
+41;Sake;saké;Boissons alcoolisées;Sake
+42;Sherry;sherry;Boissons alcoolisées;Sherry
+43;Vin pétillant;vin mousseux;Boissons alcoolisées;Vin pétillant
+44;Vin de fraise;vin de fraise;Boissons alcoolisées;Vin de fraise
+45;Vin blanc;vin-blanc;Boissons alcoolisées;Vin blanc
+46;Café;café;Boisson;Café
+47;Mate;"maté ; yerba";Boisson;Mate
+48;Thé noir;thé-noir;Boisson;Thé noir
+49;Thé vert;thé-vert;Boisson;Thé vert
+50;Thé Roibos;"thé-rooibos ; thé-bush";Boisson;Thé Roibos
+51;Orge;orge;Céréales;Orge
+52;Pain croustillant;croustillant-pain;Céréales;Pain croustillant
+53;Malt;malt;Céréales;Malt
+54;Avoine;avoine;Céréales;Avoine
+55;Riz;riz;Céréales;Riz
+56;Maïs;"maïs ; maïs-farine ; maïs-amidon ; maïs-farine";Maïs;Maïs
+57;Huile de maïs;huile de maïs;Maïs;Huile de maïs
+58;Popcorn;pop-maïs;Maïs;Popcorn
+59;Maïs doux;sucré-maïs;Maïs;Maïs doux
+60;Beurre;beurre;Produits laitiers;Beurre
+61;Babeurre;babeurre;Produits laitiers;Babeurre
+62;Fromage;fromage;Produits laitiers;Fromage
+63;Fromage bleu;fromage-bleu;Produits laitiers;Fromage bleu
+64;Fromage Camembert;fromage-camembert;Produits laitiers;Fromage Camembert
+65;Fromage Cheddar;fromage-cheddar;Produits laitiers;Fromage Cheddar
+66;Fromage Comte;fromage-comte;Produits laitiers;Fromage Comte
+67;Fromage blanc;fromage-cottage;Produits laitiers;Fromage blanc
+68;Fromage à la crème;fromage-crème;Produits laitiers;Fromage à la crème
+69;Fromage Domiati;"fromage-blanc ; fromage-domiati";Produits laitiers;Fromage Domiati
+70;Fromage Emmental;fromage-emmental;Produits laitiers;Fromage Emmental
+71;Fromage Feta;fromage-feta;Produits laitiers;Fromage Feta
+72;Fromage de chèvre;fromage-chèvre;Produits laitiers;Fromage de chèvre
+73;Fromage Gruyère;fromage-gruyère;Produits laitiers;Fromage Gruyère
+74;Fromage Limburger;fromage-limburger;Produits laitiers;Fromage Limburger
+75;Fromage Mozzarella;fromage-mozzarella;Produits laitiers;Fromage Mozzarella
+76;Fromage Munster;fromage-munster;Produits laitiers;Fromage Munster
+78;Fromage Parmesan;fromage-parmesan;Produits laitiers;Fromage Parmesan
+79;Fromage Provolone;fromage-provolone;Produits laitiers;Fromage Provolone
+80;Fromage Romano;fromage-romano;Produits laitiers;Fromage Romano
+81;Fromage Roquefort;fromage-roquefort;Produits laitiers;Fromage Roquefort
+82;Fromage russe;fromage-russe;Produits laitiers;Fromage russe
+83;Fromage de brebis;fromage-mouton;Produits laitiers;Fromage de brebis
+84;Fromage suisse;fromage-suisse;Produits laitiers;Fromage suisse
+85;Fromage Tilsit;fromage-tilsit;Produits laitiers;Fromage Tilsit
+87;Ghee;ghee;Produits laitiers;Ghee
+88;Lait;lait;Produits laitiers;Lait
+89;Graisse de lait;"lait-gras ; crème";Produits laitiers;Graisse de lait
+90;Lait de chèvre;lait de chèvre;Produits laitiers;Lait de chèvre
+91;Poudre de lait;lait-poudre;Produits laitiers;Poudre de lait
+92;Lait de Mouton;lait de brebis;Produits laitiers;Lait de Mouton
+93;Lait écrémé;lait écrémé;Produits laitiers;Lait écrémé
+94;Yogourt;"yaourt ; caillé ; yaourt";Produits laitiers;Yogourt
+95;Achilleas;achillea;Huile essentielle;Achilleas
+96;Arar;arar;Huile essentielle;Arar
+97;Buchu;buchu;Huile essentielle;Buchu
+98;Cajeput;cajeput;Huile essentielle;Cajeput
+99;Camphre;camphre;Huile essentielle;Camphre
+100;Cascarilla;cascarilla;Huile essentielle;Cascarilla
+101;Cèdre;cèdre;Huile essentielle;Cèdre
+102;Camomille;"camomille ; camomille";Huile essentielle;Camomille
+103;Huile de citronnelle;huile de citronnelle;Huile essentielle;Huile de citronnelle
+104;Huile de zeste d'agrumes;huile d'écorce d'agrume;Huile essentielle;Huile de zeste d'agrumes
+105;Huile d'Eucalyptus;huile d'eucalyptus;Huile essentielle;Huile d'Eucalyptus
+106;Sapin;sapin;Huile essentielle;Sapin
+107;Géranium;géranium;Huile essentielle;Géranium
+108;Huile d'écorce de pamplemousse;pamplemousse-écorce-huile;Huile essentielle;Huile d'écorce de pamplemousse
+109;Herbe;herbe;Huile essentielle;Herbe
+110;Huile de houblon;houblon-huile;Huile essentielle;Huile de houblon
+111;Hyacinthe;jacinthe;Huile essentielle;Hyacinthe
+112;Huile d'hysope;huile d'hysope;Huile essentielle;Huile d'hysope
+113;Lemon Grass;citron-herbe;Huile essentielle;Lemon Grass
+114;Huile d'écorce de citron;citron-peel-huile;Huile essentielle;Huile d'écorce de citron
+115;Huile d'écorce de citron vert;citron-peel-huile;Huile essentielle;Huile d'écorce de citron vert
+116;Livèche;livèche;Huile essentielle;Livèche
+117;Huile d'écorce de mandarine;mandarine-peel-huile;Huile essentielle;Huile d'écorce de mandarine
+118;Mastic Gum;lentisque;Huile essentielle;Mastic Gum
+119;Huile de menthe;huile de menthe;Huile essentielle;Huile de menthe
+120;Myrrhe;myrrhe;Huile essentielle;Myrrhe
+121;Huile de Néroli;huile de néroli;Huile essentielle;Huile de Néroli
+122;Huile d'orange;huile d'orange;Huile essentielle;Huile d'orange
+123;Orris;orris;Huile essentielle;Orris
+124;Sauge sclarée;sauge sclarée;Huile essentielle;Sauge sclarée
+125;Sauge rouge;"sauge-rouge ; sauge-sauvage";Huile essentielle;Sauge rouge
+126;Sauge espagnole;sauge-espagnole;Huile essentielle;Sauge espagnole
+127;Bois de santal;bois de santal;Huile essentielle;Bois de santal
+128;Argousier;mer-épicorne;Fruit;Argousier
+129;Herbe douce;doux-herbe;Huile essentielle;Herbe douce
+130;Valériane;valériane;Huile essentielle;Valériane
+131;Acacia;acacia;Huile essentielle;Acacia
+132;Achillée millefeuille;achillée millefeuille;Huile essentielle;Achillée millefeuille
+133;Ylang-Ylang;ylang-huile d'ylang;Huile essentielle;Ylang-Ylang
+134;Palourde;palourde;Fruits de mer;Palourde
+135;Crabe;crabe;Fruits de mer;Crabe
+136;Écrevisse;crayons-poisson;Fruits de mer;Écrevisse
+137;Varech;varech;Fruits de mer;Varech
+138;Krill;krill;Fruits de mer;Krill
+139;Homard;#homard#;Fruits de mer;Homard
+140;Mollusque;"mollusque ; moules";Fruits de mer;Mollusque
+141;Huître;huître;Fruits de mer;Huître
+142;Crevette;crevette;Fruits de mer;Crevette
+143;Coquille Saint-Jacques;coquille Saint-Jacques;Fruits de mer;Coquille Saint-Jacques
+144;Mollusques et crustacés;coquillage;Fruits de mer;Mollusques et crustacés
+145;Crevette;crevette;Fruits de mer;Crevette
+146;Trassi;"pâte de crevettes-séché ; trassi";Fruits de mer;Trassi
+147;Calmar;calmar;Fruits de mer;Calmar
+148;Bonito;bonite;Poisson;Bonito
+149;Caviar;caviar;Poisson;Caviar
+150;Morue;"morue ; cabillaud";Poisson;Morue
+151;Poisson;"poisson ; pomfret";Poisson;Poisson
+152;Poisson gras;poisson gras;Poisson;Poisson gras
+153;Poisson maigre;poisson maigre;Poisson;Poisson maigre
+154;Huile de poisson;huile de poisson;Poisson;Huile de poisson
+155;Poisson fumé;poisson-fumé;Poisson;Poisson fumé
+156;Saumon;#saumon;Poisson;Saumon
+157;Artichauts;artichaut;Fleur;Artichauts
+158;Champaca;champaca;Fleur;Champaca
+159;Jasmin;jasmin;Fleur;Jasmin
+160;Lavande;lavande;Fleur;Lavande
+161;Rose;rose;Fleur;Rose
+162;Pomme;pomme;Fruits;Pomme
+163;Sauce aux pommes;#pomme-sauce#;Fruits;Sauce aux pommes
+164;Abricot;abricot;Fruits;Abricot
+165;Avocat;avocat;Fruits;Avocat
+166;Babaco;babaco;Fruits;Babaco
+167;Banane;banane;Fruits;Banane
+168;Beli;beli;Fruits;Beli
+169;Byrsonima crassifolia;"byrsonima crassifolia ; changunga ; nanche ; serette";Fruits;Byrsonima crassifolia
+170;Pomme de cajou;noix de cajou-pomme;Fruits;Pomme de cajou
+171;Cherimoya;"cherimoya ; pomme de garde";Fruits;Cherimoya
+172;Noix de coco;noix de coco;Fruits;Noix de coco
+173;Cassis;groseille;Fruits;Cassis
+174;Groseille noire;groseille noire;Fruits;Groseille noire
+175;Groseille rouge;groseille-rouge;Fruits;Groseille rouge
+176;Groseille blanche;groseille-blanche;Fruits;Groseille blanche
+177;Dattes;datte;Fruits;Dattes
+178;Durian;durian;Fruits;Durian
+179;Sureau;sureau-mûre;Fruits;Sureau
+180;Feijoa;feijoa;Fruits;Feijoa
+181;Figue;figue;Fruits;Figue
+182;Raisin;"raisin ; merlot";Fruits;Raisin
+183;Goyave;goyave;Fruits;Goyave
+184;Hogplum;hogplum;Fruits;Hogplum
+185;Fruit du jacquier;jacquier;Fruits;Fruit du jacquier
+186;Kiwi;"kiwi ; kiwi-fruit";Fruits;Kiwi
+187;Litchi;"litchi ; litchi ; litchi";Fruits;Litchi
+188;Loquat;loquat;Fruits;Loquat
+189;Pomme malaise;malay-pomme;Fruits;Pomme malaise
+190;Mangue;"mangue ; amchoor ; amchur";Fruits;Mangue
+191;Melon;melon;Fruits;Melon
+192;Melon musqué;"musc-melon ; miellat";Fruits;Melon musqué
+193;Naranjilla;naranjilla;Fruits;Naranjilla
+194;Orange;orange;Fruits;Orange
+195;Orange amère;"orange-amère ; orange-aigre";Fruits;Orange amère
+196;Papaye;papaye;Fruits;Papaye
+197;Papaye de montagne;Papaye-montagne;Fruits;Papaye de montagne
+198;Fruit de la passion;fruit de la passion;Fruits;Fruit de la passion
+199;Fruit de la passion jaune;fruit de la passion-jaune;Fruits;Fruit de la passion jaune
+200;Pawpaw;papaye;Fruits;Pawpaw
+201;Pêche;"pêche ; nectarine";Fruits;Pêche
+202;Poire;poire;Fruits;Poire
+203;Poire Bartlett;poire-barlett;Fruits;Poire Bartlett
+204;Figue de Barbarie;poire à épines;Fruits;Figue de Barbarie
+205;Pepino;"pepino ; concombre-sucré";Fruits;Pepino
+206;Ananas;"ananas ; ananas";Fruits;Ananas
+207;Prune;"prune ; pruneau";Fruits;Prune
+208;Plumcot;"plumcot ; aprium";Fruits;Plumcot
+209;Citrouille;"citrouille ;";Fruits;Citrouille
+210;Coing;coing;Fruits;Coing
+211;Coing chinois;coing-chinois;Fruits;Coing chinois
+212;Raisin;"raisin sec ; sultanine";Fruits;Raisin
+213;Ananas;"rose-pomme ; java-pomme";Fruits;Ananas
+214;Sapodilla;sapodilla;Fruits;Sapodilla
+215;Soursop;corossol;Fruits;Soursop
+216;Orange de singe sans épines;spineless-monkey-orange;Fruits;Orange de singe sans épines
+217;Starfruit;"carambole ; carambole";Fruits;Starfruit
+218;Tamarinier;tamarin;Fruits;Tamarinier
+219;Ananas des bois;ananas des bois;Fruits;Ananas des bois
+221;Myrtille;myrtille;Fruits;Myrtille
+222;Mûre;mûre;Fruits;Mûre
+223;Myrtille;myrtille;Fruits;Myrtille
+224;Cerise;cerise;Fruits;Cerise
+225;Cerise amère;"cerise-framboise ; cerise-amère";Fruits;Cerise amère
+226;Cerise acide;"cerise-morello ; cerise-aigre";Fruits;Cerise acide
+227;Cerise douce;"cerise-sucrée ; cerise-sauvage";Fruits;Cerise douce
+228;Myrtille;mûre des marais;Fruits;Myrtille
+229;Canneberge;canneberge;Fruits;Canneberge
+230;Groseille à maquereau;groseille à maquereau;Fruits;Groseille à maquereau
+231;Lingonberry;airelle rouge;Fruits;Lingonberry
+232;Mûre de ronce;mûre de Logan;Fruits;Mûre de ronce
+233;Framboise;framboise;Fruits;Framboise
+234;Fraise;fraise;Fruits;Fraise
+235;Confiture de fraises;confiture de fraises;Fruits;Confiture de fraises
+236;Bergamote;bergamote;Fruits;Bergamote
+237;Agrumes;agrume;Fruits;Agrumes
+238;Pamplemousse;pamplemousse;Fruits;Pamplemousse
+239;Kumquat;kumquat;Fruits;Kumquat
+240;Citron;citron;Fruits;Citron
+241;Citron vert;citron vert;Fruits;Citron vert
+242;Mandarine Orange;mandarine;Fruits;Mandarine Orange
+243;Orange Satsuma;mandarine-satsuma;Fruits;Orange Satsuma
+244;Mandarine;mandarine;Fruits;Mandarine
+245;Vanille;vanille;Fruits;Vanille
+246;Champignon;"champignon ; porcini";Champignons;Champignon
+247;Truffe;truffe;Champignons;Truffe
+248;Angélique;angélique;Herb;Angélique
+249;Artemisia;artemisia;Herb;Artemisia
+250;Basilic;basilic;Herb;Basilic
+251;Sarrasin;sarrasin;Herb;Sarrasin
+252;Calamus;calamus;Herb;Calamus
+253;Cerfeuil;cerfeuil;Herbe;Cerfeuil
+254;Coriandre;"coriandre ; cilantro";Herbe;Coriandre
+255;Millepertuis;menthe des champs;Herbe;Millepertuis
+256;Aneth;aneth;Herbe;Aneth
+257;Fenouil;fenouil;Herbe;Fenouil
+258;Fenugrec;"fenugrec ; methi";Herbe;Fenugrec
+259;Ail;ail;Herbe;Ail
+260;Mélisse;citron-balme;Herbe;Mélisse
+261;Liqourice;réglisse;Herbe;Liqourice
+262;Menthe;menthe;Herbe;Menthe
+263;Rhubarbe;rhubarbe;Herbe;Rhubarbe
+264;Romarin;romarin;Herbe;Romarin
+265;Sauge;sauge;Herbe;Sauge
+266;Menthe verte;huile de menthe verte;Herbe;Menthe verte
+267;Menthe verte écossaise;spearmint-scotch;Herbe;Menthe verte écossaise
+268;Estragon;estragon;Herbe;Estragon
+269;Thym;thym;Herbe;Thym
+270;Bœuf;"bœuf ; steak ; veau ; aloyau";Viande;Bœuf
+271;Bœuf transformé;bœuf transformé;Viande;Bœuf transformé
+272;Poulet;poulet;Viande;Poulet
+273;Saucisse de Francfort;saucisse de Francfort;Plat;Saucisse de Francfort
+274;Jambon;jambon;Viande;Jambon
+275;Agneau;"agneau ; keema";Viande;Agneau
+276;Viande;viande;Viande;Viande
+277;Mouton;mouton;Viande;Mouton
+278;Porc;"porc ; cochon ; lard";Viande;Porc
+279;Sukiyaki;sukiyaki;Viande;Sukiyaki
+280;Dinde;dinde;Viande;Dinde
+281;Amande;amande;Noix et graines;Amande
+282;Noix du Brésil;brésilien-noisette;Fruits à coque et graines;Noix du Brésil
+283;Cacao;cacao;Noix et graines;Cacao
+284;Haricots;haricot;Légumineuses;Haricots
+285;Haricot de Lima;"haricot-lima ; haricot-maïs ; haricot-beurre";Légumineuses;Haricot de Lima
+286;Haricots rouges;"haricot-rognon ; haricot-rouge ; haricot-rouge-rognon ; rajma";Légumineuse;Haricots rouges
+287;Cacahuète;arachide;Noix et graines;Cacahuète
+288;Pois;pois;Légumineuse;Pois
+289;Soja;"soja-haricot ; soja-haricot";Légumineuse;Soja
+290;Huile de soja;"soja-huile de soja ; soja-huile de soja";Légumineuse;Huile de soja
+291;Sauce de soja;"soja-sauce de soja ; soja-sauce de soja ; soja-sauce de soja ; soja-sauce de soja";Plante;Sauce de soja
+292;Filbert;aveline;Noix et graines;Filbert
+293;Noisette;noisetier-noisette;Noix et graines;Noisette
+294;Noix de Macadamia;"macadamia-noisette ; brousse-noisette ; hawaii-noisette";Noix et graines;Noix de Macadamia
+296;Noix de pécan;noix de pécan;Noix et graines;Noix de pécan
+297;Noix;noix;Noix et graines;Noix
+298;Mousseron;musc-mallow;Noix et graines;Mousseron
+299;Sésame;sésame;Noix et graines;Sésame
+300;Allium;allium;Plante;Allium
+301;Alpinia;alpinia;Plante;Alpinia
+302;Ceriman;ceriman;Plante;Ceriman
+303;Chicorée;chicorée;Plante;Chicorée
+304;Houblon;houblon;Plante;Houblon
+305;Laurier;"baie-laurel ; baie-feuille";Plante;Laurier
+306;Myrte;myrte;Plante;Myrte
+307;Olive;olive;Plante;Olive
+308;Pin;pin;Plante;Pin
+309;Sassafras;sassafras;Plante;Sassafras
+310;Thé;thé;Plante;Thé
+311;Thé fermenté;thé fermenté;Plante;Thé fermenté
+312;Tabac;tabac;Plante;Tabac
+313;Cresson;cresson;Plante;Cresson
+314;Créosote;créosote;Plante;Créosote
+315;Miel;miel;Plante;Miel
+316;Macaroni;macaroni;Plante;Macaroni
+317;Huile de moutarde;huile de moutarde;Plante;Huile de moutarde
+318;Beurre d'arachide;cacahuète-beurre;Plante;Beurre d'arachide
+319;Huile d'arachide;huile d'arachide;Plante;Huile d'arachide
+320;Seigle;seigle;Céréales;Seigle
+321;Storax;storax;Plante;Storax
+322;Vinaigre;vinaigre;Plante;Vinaigre
+323;Anis;"anis ; saunf";Épices;Anis
+324;Anis hysope;anis-hysope;Épice;Anis hysope
+325;Anis étoilé;anis étoilé;Épice;Anis étoilé
+326;Carvi;carvi;Épice;Carvi
+327;Cardamome;"cardamome ; cardamone";Épice;Cardamome
+328;Cassia;cassia;Épice;Cassia
+329;Céleri;céleri;Épice;Céleri
+330;Cannelle;cannelle;Épice;Cannelle
+331;Clou de girofle;clou de girofle;Épice;Clou de girofle
+332;Cumin;"cumin ; jeera";Épice;Cumin
+333;Gingembre;gingembre;Épice;Gingembre
+334;Macis;macis;Épice;Macis
+335;Marjolaine;marjolaine;Épice;Marjolaine
+336;Noix de muscade;noix de muscade;Épice;Noix de muscade
+337;Origan;origan;Épice;Origan
+338;Persil;persil;Épice;Persil
+339;Poivre;"poivre ; kaali-mirch";Épice;Poivre
+340;Safran;safran;Épice;Safran
+341;Curcuma;"curcuma ; tumeric";Épice;Curcuma
+342;Haricots verts;"haricot vert ; champ de haricots ; haricot-flageolet ; haricot-français ; jardin de haricots ; haricot-haricot ; haricot-corde ; haricot-fraise";Légumes;Haricots verts
+343;Ciboulette;ciboulette;Légumes;Ciboulette
+344;Endive;endive;Végétale;Endive
+345;Poireau;poireau;Végétale;Poireau
+346;Laitue;laitue;Légumes;Laitue
+347;Gombo;"okra ; bhindi ; lady-finger";Légumes;Gombo
+348;Oignon;oignon;Légumes;Oignon
+349;Échalote;échalote;Légumes;Échalote
+350;Menthe poivrée;menthe poivrée;Herbe;Menthe poivrée
+351;Brocoli;"brocoli ; broccolini";Légumes;Brocoli
+352;Chou de Bruxelles;chou de Bruxelles;Légumes;Chou de Bruxelles
+353;Chou;chou;Légumes;Chou
+354;Chou-fleur;chou-fleur;Légumes;Chou-fleur
+355;Raifort;raifort;Légumes;Raifort
+356;Moutarde;moutarde;Légumes;Moutarde
+357;Radis;"radis ; daikon ; mooli";Légumes;Radis
+358;Navet;navet;Légumes;Navet
+359;Chou-rave;chou-rave;Légumes;Chou-rave
+360;Rutabaga;rutabaga;Légumes;Rutabaga
+361;Wasabi;wasabi;Légumes;Wasabi
+362;Capsicum;"poivron ; paprika ; poivre en cloche ; poivre doux";Légumes;Capsicum
+363;Poivron cerise;"pimiento ; cerise-poivre";Légumes;Poivron cerise
+364;Tomate;tomate;Légumes;Tomate
+365;Chayotte;chayotte;Légumes;Chayotte
+366;Concombre;concombre;Légumes;Concombre
+367;Betterave rouge;"betterave ; betterave";Légumes;Betterave rouge
+368;Carotte;carotte;Légumes;Carotte
+369;Panais;panais;Légumes;Panais
+370;Patate douce;pomme de terre douce;Légumes;Patate douce
+371;Asperge;asperge;Légumes;Asperge
+372;Manioc;manioc;Légumes;Manioc
+373;Pomme de terre;pomme de terre;Légumes;Pomme de terre
+374;Pommes de terre frites;pomme de terre-frite;Boulangerie;Pommes de terre frites
+375;Piment de la Jamaïque;"piment de la Jamaïque ; pimenta ; myrte-poivre";Épices;Piment de la Jamaïque
+376;Asafoetida;"asafoetida ; asafetida ; hing ; asant";Épice;Asafoetida
+377;Courge cendrée;"cendre-courgeoise ; blanc-courgeoise";Légumes;Courge cendrée
+378;Courge amère;"amer-courgeoise ; amer de courge";Légumes;Courge amère
+379;Gourmandise;bouteille-courgeoise;Végétale;Gourmandise
+380;Huile de canola;huile de canola;Huile essentielle;Huile de canola
+381;Graine de carome;"graine de carome ; ajwain";Épice;Graine de carome
+382;Bette à carde;blette;Végétal;Bette à carde
+383;Vinaigre de cidre de pomme;"vinaigre-cidre ; cidre-vinaigre";Plante;Vinaigre de cidre de pomme
+384;Colocasia;colocasia;Végétal;Colocasia
+385;Feuille de curry;curry-feuille;Herbe;Feuille de curry
+386;Feuille de pilon;feuille de pilon;Légumes;Feuille de pilon
+387;Aubergine;"aubergine ; aubergine ; brinjal";Légume;Aubergine
+388;Graine de lin;lin-graine;Noix et graines;Graine de lin
+389;Jalapeno;jalapeno;Épices;Jalapeno
+390;Kenaf;kenaf;Huile essentielle;Kenaf
+391;Lotus;lotus;Huile essentielle;Lotus
+392;Graine de Nigelle;"graine de nigelle ; kalonji";Noix et graines;Graine de Nigelle
+393;Kewda;"kewda ; kewra";Huile essentielle;Kewda
+394;Grenade;"grenade ; anaardana";Fruits;Grenade
+395;Graine de pavot;"coquelicot ; graine";Épices;Graine de pavot
+396;Epinards;"épinard ; palak";Végétal;Epinards
+397;Baie de dinde;dinde-berry;Légume;Baie de dinde
+398;Châtaigne d'eau;"eau-châtaigne ; eau-caltrop";Fruit;Châtaigne d'eau
+399;Poivre blanc;"poivre blanc ;";Épice;Poivre blanc
+400;Garcinia Indica;"kokum ; garnicia-indica";Fruit;Garcinia Indica
+401;Haricot à grappes;"haricot-cluster ; haricot-guar";Légumineuse;Haricot à grappes
+402;Paneer;paneer;Produits laitiers;Paneer
+403;Pois d'Angole;"pois-pigeon ; arhar ; pois-no-oeil ; dal-toor ; rouge-gramme";Légumineuse;Pois d'Angole
+404;Riz Basmati;basmati;Céréales;Riz Basmati
+405;Fromage Ricotta;fromage-ricotta;Laitière;Fromage Ricotta
+408;Tilleul argenté;tilleul-argenté;Herbe;Tilleul argenté
+409;Oignon à peau rouge;"oignon-rouge-peau ; oignon-rouge";Légumes;Oignon à peau rouge
+410;Verveine citronnée;verveine-citron;Herbe;Verveine citronnée
+411;Noix de cajou;"noix de cajou ; noix de cajou-noix";Noix et graines;Noix de cajou
+412;Bardane;bardane;Légumes;Bardane
+413;Bourrache;bourrache;Herbe;Bourrache
+414;Câpres;câpre;Herbe;Câpres
+415;Carthame;saf-fleur;Herbe;Carthame
+416;Châtaigne;châtaigne;Noix et graines;Châtaigne
+417;Pois chiche;"pois chiche ; besan ; pois chiche ; kabuli chana ; kala chana ; garbanzo";Légumineuse;Pois chiche
+418;Pummelo;pummelo;Fruit;Pummelo
+419;Café Arabica;café-arabica;Boisson;Café Arabica
+421;Kaki japonais;kaki-japonais;Fruit;Kaki japonais
+422;Corneille noire;camarine noire;Fruit;Corneille noire
+423;Salade de roquette;salade-racine;Herbe;Salade de roquette
+424;Sarrasin de Tartarie;sarrasin-tartare;Céréales;Sarrasin de Tartarie
+425;Myrtille noire;myrtille-noire;Fruit;Myrtille noire
+426;Tournesol;tournesol;Fleur;Tournesol
+427;Chou des marais;chou-champignon;Légume;Chou des marais
+428;Pois de senteur;pois-herbe;Légumineuse;Pois de senteur
+429;Lentilles;lentille;Légumineuse;Lentilles
+430;Cresson de jardin;cresson;Herbe;Cresson de jardin
+431;Origan mexicain;oregano-mexicain;Herbe;Origan mexicain
+432;Lupin;lupin;Plante;Lupin
+433;Mèfle;néflier;Fruit;Mèfle
+434;Mûrier;mûrier;Fruit;Mûrier
+435;Mûrier noir;mûrier-noir;Fruit;Mûrier noir
+436;Onagre;primevère;Herbe;Onagre
+437;Millet;millet;Légumineuse;Millet
+438;Haricot écarlate;haricot-scarlette;Légumineuse;Haricot écarlate
+439;Pistachier;pistache;Noix et graines;Pistachier
+440;Pourpier;pourpier;Plante;Pourpier
+441;Framboise rouge;framboise-rouge;Fruit;Framboise rouge
+442;Framboise noire;framboise-noire;Fruit;Framboise noire
+443;Oseille;oseille;Herbe;Oseille
+444;Sariette d'été;sarriette-été;Herbe;Sariette d'été
+445;Sarriette d'hiver;sarriette-hiver;Herbe;Sarriette d'hiver
+446;Tomate cerise;cerise-tomate;Fruit;Tomate cerise
+447;Rowanberry;sorbier-mûre;Fruit;Rowanberry
+448;Sorgho;sorgho;Céréale;Sorgho
+449;Pissenlit;pissenlit;Fleur;Pissenlit
+450;Tilleul;tilleul;Herbe;Tilleul
+451;Tilleul à petites feuilles;feuille de tilleul;Plante;Tilleul à petites feuilles
+452;Blé;blé;Céréales;Blé
+453;Amélanchier;fraise des bois;Fruit;Amélanchier
+454;Verveine commune;"verveine ; verveine";Herbe;Verveine commune
+455;Haricot Adzuki;haricot-adzuki;Légumineuse;Haricot Adzuki
+456;Haricot Gram;haricot-gramme;Légumineuse;Haricot Gram
+457;Haricot mungo;"haricot-mung ; haricot-moong";Légumineuse;Haricot mungo
+458;Haricot grimpant;haricot grimpant;Légumineuse;Haricot grimpant
+459;Raisin muscadine;raisin-muscadine;Fruit;Raisin muscadine
+460;Myrtille;baie de laurier;Fruit;Myrtille
+461;Myrtille d'Elliott;myrtille-elliot;Fruit;Myrtille d'Elliott
+462;Myrtille du Canada;myrtille-canada;Fruit;Myrtille du Canada
+463;Groseille à maquereau;groseille-buffle;Fruit;Groseille à maquereau
+464;Raisin de cerf;cerf-mûre;Fruit;Raisin de cerf
+465;Ginseng;ginseng;Végétal;Ginseng
+466;Longan;longan;Plante;Longan
+469;Ramboutan;ramboutan;Fruit;Ramboutan
+470;Riz rouge;riz-rouge;Céréales;Riz rouge
+472;Oignon gallois;"oignon-gallois ; oignon-ressort ; échalote";Légume;Oignon gallois
+473;Blé dur;"blé-dur ; spaghetti";Céréales;Blé dur
+474;Triticale;triticale;Céréales;Triticale
+475;Komatsuna;komatsuna;Légumes;Komatsuna
+476;Pak choy;"pak-choy ; pak-choi";Légumes;Pak choy
+477;Jostaberry;jostaberry;Fruit;Jostaberry
+478;Kai lan;kai-lan;Légume;Kai lan
+480;Sauge ananas;ananas-sauce;Herbe;Sauge ananas
+481;Groseille à maquereau;groseille-skunk;Fruit;Groseille à maquereau
+482;Céréales pour petit-déjeuner;céréales;Céréales;Céréales pour petit-déjeuner
+484;Pâtes;pâtes;Boulangerie;Pâtes
+485;Biscuit;biscuit;Boulangerie;Biscuit
+486;Sourdough;levain;Céréales;Sourdough
+487;Esprit;esprit;Boisson alcoolisée;Esprit
+489;Ormeau;ormeau;Champignon;Ormeau
+490;Abiyuch;abiyuch;Plante;Abiyuch
+491;Acérola;acérola;Fruit;Acérola
+492;Gland;gland;Noix et graines;Gland
+493;Courge d'hiver;"courge-hiver ; courge-jaune";Fruit;Courge d'hiver
+494;Agar;agar;Additif;Agar
+495;Crabe royal rouge;#crabe-rouge;Fruits de mer;Crabe royal rouge
+496;Luzerne;luzerne;Herb;Luzerne
+497;Amarante;amarante;Herbe;Amarante
+498;Tête de flèche;tête de flèche;Légumes;Tête de flèche
+499;Arrowroot (racine de flèche);arrowroot;Légumes;Arrowroot (racine de flèche)
+500;Hareng de l'Atlantique;#hareng-atlantique#;Poisson;Hareng de l'Atlantique
+501;Maquereau de l'Atlantique;#mackerel-atlantique#;Poisson;Maquereau de l'Atlantique
+502;Mérou de l'Atlantique;combe;Poisson;Mérou de l'Atlantique
+503;Loup atlantique;#pollock-atlantique#;Poisson;Loup atlantique
+504;Loup atlantique;loup de mer;Poisson;Loup atlantique
+505;Pousses de bambou;pousse de bambou;Plante;Pousses de bambou
+506;Bar rayé;bar;Poisson;Bar rayé
+507;Castor;castor;Viande;Castor
+508;Noix de hêtre;noix-hêtre;Noix et graines;Noix de hêtre
+509;Béluga;#baleine-béluga;Poisson;Béluga
+510;Bison;bison;Viande;Bison
+511;Ours noir;#ours-noir;Viande;Ours noir
+512;Poisson noir d'Alaska;poisson noir;Poisson;Poisson noir d'Alaska
+513;Thon rouge du Nord;#thon rouge#;Poisson;Thon rouge du Nord
+514;Poisson bleu;poisson bleu;Poisson;Poisson bleu
+515;Sanglier;sanglier;Viande;Sanglier
+516;Baleine boréale;#whale-bowhead#;Poisson;Baleine boréale
+517;Fruit à pain;fruit à pain;Fruit;Fruit à pain
+519;Rapini;rapini;Légumes;Rapini
+520;Ours brun;#Ours brun;Viande;Ours brun
+521;Buffle;#buffalo#;Viande;Buffle
+522;lotte;lotte;Poisson;lotte
+523;Pétoncle géant;pétasite;Plante;Pétoncle géant
+524;Papillon d'Amérique;papillon;Poisson;Papillon d'Amérique
+525;Butternut;butternut;Noix et graines;Butternut
+526;Courge musquée;"courge musquée ; potiron musqué";Fruits;Courge musquée
+527;Cardon;cardon;Plante;Cardon
+528;Caribou;caribou;Viande;Caribou
+529;Prune du Natal;prune-natale;Fruits;Prune du Natal
+530;Caroube;caroube;Plante;Caroube
+531;Carpe commune;carpe;Poisson;Carpe commune
+532;Chien-chat de rivière;#carpe-canal#;Poisson;Chien-chat de rivière
+533;Chia;chia;Herbe;Chia
+534;Châtaigne chinoise;châtaigne-chinoise;Noix et graines;Châtaigne chinoise
+535;Chrysanthème de Garlande;guirlande-chrysanthème;Fleur;Chrysanthème de Garlande
+536;Cisco;#cisco#;Poisson;Cisco
+537;Coque de Nuttall;châtaigne-cockle;Poisson;Coque de Nuttall
+538;Pieuvre commune;#octopus#;Fruits de mer;Pieuvre commune
+539;Salade de maïs;salade-maïs;Légume;Salade de maïs
+540;Graine de coton;coton-graine;Plante;Graine de coton
+541;Pois Catjang;pois-catjang;Légumineuse;Pois Catjang
+542;Courge;courge-mûre;Fruit;Courge
+543;Croak de l'Atlantique;#croaker-atlantique#;Poisson;Croak de l'Atlantique
+544;Brosme;brosme;Poisson;Brosme
+545;Seiche;seiche-poisson;Poisson;Seiche
+546;Cerf mulet;#cerf-mulet#;Viande;Cerf mulet
+547;Poisson diable;diable-poisson;Poisson;Poisson diable
+548;Dock;quai;Herbe;Dock
+549;Poisson dauphin;dauphin;Poisson;Poisson dauphin
+550;Tambour d'eau douce;tambour;Poisson;Tambour d'eau douce
+551;Canard sauvage;canard;Viande;Canard sauvage
+552;Anguille d'eau douce;anguille;Poisson;Anguille d'eau douce
+553;Elan;#elk#;Viande;Elan
+554;Émeu;émeu;Viande;Émeu
+555;Yampah de l'Oregon;oregon-yampah;Plante;Yampah de l'Oregon
+556;Anchois d'Europe;#anchovy-european#;Poisson;Anchois d'Europe
+557;Châtaigne européenne;châtaigne-européenne;Noix et graines;Châtaigne européenne
+558;Turbot;turbot;Poisson;Turbot
+559;Épilobe;épilobe;Herbe;Épilobe
+560;Pompano de Floride;pompano;Poisson;Pompano de Floride
+561;Noix de ginkgo;noix-ginkgo;Noix et graines;Noix de ginkgo
+562;Oie cendrée;oie;Viande;Oie cendrée
+563;Flétan du Groenland;#flétan du Groenland;Poisson;Flétan du Groenland
+564;Groseille à maquereau;cerisier de terre;Fruit;Groseille à maquereau
+565;Mérou;mérou;Poisson;Mérou
+566;Haddock;#haddock#;Poisson;Haddock
+567;Hippoglosse;hippoglosse;Poisson;Hippoglosse
+568;Cheval;cheval;Viande;Cheval
+569;Haricot jacinthe;haricot-hyacinthe;Légumineuse;Haricot jacinthe
+570;Mousse d'Irlande;mousse-irish;Fruits de mer;Mousse d'Irlande
+571;Maquereau du Pacifique;#mackerel-pacifique#;Poisson;Maquereau du Pacifique
+572;Châtaigne du Japon;châtaigne-japonaise;Noix et graines;Châtaigne du Japon
+573;Topinambour;artichaut-jérusalen;Légumes;Topinambour
+574;Jujube;jujube;Fruit;Jujube
+575;Jute;jute;Plante;Jute
+576;Chou frisé;chou frisé;Légumes;Chou frisé
+577;Maquereau royal;#maquereau-roi#;Poisson;Maquereau royal
+578;Chénopode blanc;chénopode blanc;Plante;Chénopode blanc
+579;Chiton cuir;chiton;Fruits de mer;Chiton cuir
+580;Lingue commune;lingue;Poisson;Lingue commune
+581;Morue-lingue;morue-lingue;Poisson;Morue-lingue
+582;Lupin blanc;lupin-blanc;Plante;Lupin blanc
+583;Epinard de Malabar;épinard-malabar;Légumes;Epinard de Malabar
+584;Pomme Mammee;pomme-mammee;Fruit;Pomme Mammee
+585;Mangoustan pourpre;mangoustan;Fruit;Mangoustan pourpre
+586;Mélilot des Alpes;mélilot;Plante;Mélilot des Alpes
+587;Milkfish;lait-poisson;Poisson;Milkfish
+588;Baudroie;moine-poisson;Poisson;Baudroie
+589;Orignal;élan;Viande;Orignal
+590;Haricot papillon;mite à haricots;Légumineuse;Haricot papillon
+591;Moutarde de montagne;igname-montagne;Légume;Moutarde de montagne
+592;Mouton rayé;mulet;Poisson;Mouton rayé
+593;Rat musqué;rat musqué;Viande;Rat musqué
+594;Epinard de Nouvelle-Zélande;épinard-new-zealand;Végétale;Epinard de Nouvelle-Zélande
+595;Nopal;nopal;Plante;Nopal
+596;Tacaud de mer;#pout-ocean#;Poisson;Tacaud de mer
+597;Pieuvre géante du Pacifique Nord;#octopus-pacific#;Fruits de mer;Pieuvre géante du Pacifique Nord
+598;Ohelo berry;baie-ohelo;Fruit;Ohelo berry
+600;Opossum;opossum;Viande;Opossum
+601;Autruche;autruche;Viande;Autruche
+602;Phoque tacheté;#seal-spotted#;Fruits de mer;Phoque tacheté
+603;Hareng du Pacifique;#hareng-pacifique#;Poisson;Hareng du Pacifique
+604;Sébaste du Pacifique;sébaste;Poisson;Sébaste du Pacifique
+606;Kaki commun;#persimmon-common#;Fruit;Kaki commun
+607;Faisan;faisan;Viande;Faisan
+608;Brochet du Nord;brochet-nord;Poisson;Brochet du Nord
+609;Noix de pili;noix-pili;Noix et graines;Noix de pili
+610;Pinsons du Colorado;pinyon;Plantes;Pinsons du Colorado
+611;Pitanga;pitanga;Fruit;Pitanga
+612;Plantain français;plantain-français;Plante;Plantain français
+613;Pokeweed américain;pokeweed-american;Herbe;Pokeweed américain
+614;Ours polaire;#ours-polaire;Viande;Ours polaire
+615;Navet des prairies;navet-prairie;Légume;Navet des prairies
+616;Quinoa;quinoa;Céréales;Quinoa
+617;Lapin d'Europe;#Lapin-européen#;Viande;Lapin d'Europe
+618;Raton laveur;raton laveur;Viande;Raton laveur
+619;Éperlan arc-en-ciel;#smelt-rainbow#;Poisson;Éperlan arc-en-ciel
+620;Truite arc-en-ciel;#trout-arc-en-ciel#;Poisson;Truite arc-en-ciel
+621;Prune de Malabar;prune-malabar;Fruit;Prune de Malabar
+622;Cynorhodon;Cynorhodon;Fruit;Cynorhodon
+623;Roselle;roselle;Herbe;Roselle
+624;Hoplostète orange;orange-rugueux;Poisson;Hoplostète orange
+625;Morue charbonnière;zibeline-poisson;Poisson;Morue charbonnière
+626;Saumon rose;#salmon-pink#;Poisson;Saumon rose
+627;Saumon kéta;#salmon-chum#;Poisson;Saumon kéta
+628;Le saumon coho;#saumon-coho#;Poisson;Le saumon coho
+629;Saumon sockeye;#saumon-sockeye#;Poisson;Saumon sockeye
+630;Le saumon Chinook;#saumon-chinook#;Poisson;Le saumon Chinook
+631;Saumon atlantique;#saumon-atlantique#;Poisson;Saumon atlantique
+632;Salmonberry;saumon-mûre;Fruit;Salmonberry
+633;Salsifis commun;salsifis;Plante;Salsifis commun
+634;Maquereau espagnol;#mackerel-espagnol#;Poisson;Maquereau espagnol
+635;Sardine du Pacifique;sardine;Poisson;Sardine du Pacifique
+636;Morue charbonnière;scup;Poisson;Morue charbonnière
+637;Concombre de mer;concombre-mer;Fruits de mer;Concombre de mer
+638;Otarie de Steller;oignon de mer;Fruits de mer;Otarie de Steller
+639;Phoque barbu;#phoque barbu#;Fruits de mer;Phoque barbu
+640;Phoque annelé;#phoque annelé#;Fruits de mer;Phoque annelé
+641;Truite de mer;#trout-mer#;Poisson;Truite de mer
+642;Fleur de Sesbania;fleur de sesbania;Fleur;Fleur de Sesbania
+643;Alose savoureuse;alose;Poisson;Alose savoureuse
+644;Requin;requin;Poisson;Requin
+645;Poisson de fond;sheefish;Poisson;Poisson de fond
+646;Tête de mouton;tête de mouette;Poisson;Tête de mouton
+647;Moutarde des haies;moutarde-hedge;Légumes;Moutarde des haies
+648;Vivaneau;vivaneau;Poisson;Vivaneau
+649;Epeautre;épeautre;Céréales;Epeautre
+650;Spiruline;spiruline;Additif;Spiruline
+651;Écureuil;pigeonneau;Viande;Écureuil
+652;Écureuil;écureuil;Viande;Écureuil
+653;Grand esturgeon;#esturgeon-gros;Poisson;Grand esturgeon
+654;Meunier noir;meunier-blanc;Poisson;Meunier noir
+655;Crapet sac-à-lait;crapet-soleil;Poisson;Crapet sac-à-lait
+656;Espadon;espadon;Poisson;Espadon
+657;Taro;taro;Légumes;Taro
+658;Teff;teff;Herbe;Teff
+659;Tilefish;tuile-poisson;Poisson;Tilefish
+660;Cachemire mexicain;cerise de terre-mexicaine;Fruit;Cachemire mexicain
+661;Courge de serviette;gourde-towel;Légumes;Courge de serviette
+662;Salmonidae;#salmonidae#;Poisson;Salmonidae
+663;Doré jaune;doré jaune;Poisson;Doré jaune
+664;Colin d'Alaska;#pollock-alaska#;Poisson;Colin d'Alaska
+665;Buccin;buccin;Fruits de mer;Buccin
+667;Corégone large;#poisson-blanc-rouge#;Poisson;Corégone large
+668;Corégone;#poissonblanc#;Poisson;Corégone
+669;Merlan;#whiting#;Poisson;Merlan
+670;Riz sauvage;riz sauvage;Céréales;Riz sauvage
+671;Saule à feuilles de thé;thé-feuille de saule;Herbe;Saule à feuilles de thé
+672;Haricot ailé;haricot à ailes;Légumineuse;Haricot ailé
+673;Igname;igname;Légume;Igname
+674;Jicama;jicama;Légume;Jicama
+675;Yautia;yautia;Plante;Yautia
+676;Thon à nageoires jaunes;#tuna-yellowfin#;Poisson;Thon à nageoires jaunes
+677;Sériole à queue jaune;sériole;Poisson;Sériole à queue jaune
+678;Goberge;#pollock#;Poisson;Goberge
+679;Thon albacore;#tuna-albacore#;Poisson;Thon albacore
+680;Flétan de l'Atlantique;#halibut-atlantique#;Poisson;Flétan de l'Atlantique
+682;Éperlan;#éperlan#;Poisson;Éperlan
+683;Clupeinae;clupeinae;Poisson;Clupeinae
+684;Homard épineux;#lobster-spiny#;Fruits de mer;Homard épineux
+685;Poison aux yeux noirs;pois noir-yeux;Légumineuses;Poison aux yeux noirs
+686;Chevreuil;#deer#;Viande;Chevreuil
+687;Percoidei;percoidei;Poisson;Percoidei
+688;Perciformes;perciformes;Poisson;Perciformes
+690;Lapin;#lapin#;Viande;Lapin
+691;Bœuf;bœuf;Viande;Bœuf
+693;Bivalvia;bivalves;Fruits de mer;Bivalvia
+694;Poissons plats;poisson plat;Poisson;Poissons plats
+695;Morses;morse;Fruits de mer;Morses
+696;Rhubarbe sauvage d'Alaska;rhubarbe-alaska;Plantes;Rhubarbe sauvage d'Alaska
+697;Blé oriental;blé-oriental;Céréales;Blé oriental
+698;Haricot long;haricot-long;Légumineuse;Haricot long
+699;Grand-duc d'Amérique;hibou;Viande;Grand-duc d'Amérique
+700;Caille;caille;Viande;Caille
+701;Mûre de Boysen;mûre de Boysen;Fruit;Mûre de Boysen
+702;Rowal;rollier;Plante;Rowal
+703;Oreille de juif;oreille-jewâ€™s;Champignon;Oreille de juif
+704;Shiitake;shiitake;Champignon;Shiitake
+705;Lavande pourpre;laver;Fruits de mer;Lavande pourpre
+706;Wakame;wakame;Fruits de mer;Wakame
+707;Enokitake;enokitake;Champignon;Enokitake
+708;Epazote;épazote;Herbe;Epazote
+709;Pleurote en huître;champignon-huître;Champignon;Pleurote en huître
+710;Champignon de l'oreille des nuages;oreille-nuage;Champignon;Champignon de l'oreille des nuages
+711;Maitake;maitake;Champignon;Maitake
+712;Fougère d'autruche;fougère-autruche;Plante;Fougère d'autruche
+713;Croque-mouche;#croaker-spot#;Poisson;Croque-mouche
+714;Sourdock;sourdock;Herbe;Sourdock
+715;Tinda;tinda;Végétal;Tinda
+716;Menhaden de l'Atlantique;menhaden;Poisson;Menhaden de l'Atlantique
+717;Agave;agave;Plante;Agave
+718;Quenouille à feuilles étroites;quenouille;Herbe;Quenouille à feuilles étroites
+719;Méduse;méduse;Fruits de mer;Méduse
+720;Anchois;#anchovy#;Poisson;Anchois
+721;Merlan bleu;#blanc-bleu#;Poisson;Merlan bleu
+722;Carpe d'eau douce;brème;Poisson;Carpe d'eau douce
+723;Chanterelle;chanterelle;Champignon;Chanterelle
+724;Esturgeon;#Esturgeon#;Poisson;Esturgeon
+725;Omble;omble;Poisson;Omble
+726;Limande commune;limande;Poisson;Limande commune
+727;Aiguillat commun;roussette;Poisson;Aiguillat commun
+728;Anatidae;anatidae;Viande;Anatidae
+729;Anguilliformes;anguilliformes;Poisson;Anguilliformes
+730;Grenouille véritable;grenouille;Viande;Grenouille véritable
+731;Garfish;orphie;Poisson;Garfish
+732;Gadiformes;gadiformes;Poisson;Gadiformes
+733;Lièvre variable;lièvre;Viande;Lièvre variable
+734;Truite grise;#trout-lake#;Poisson;Truite grise
+735;Limande sole;semelle de citron;Poisson;Limande sole
+736;Lumpsucker;lombricomane;Poisson;Lumpsucker
+737;Scombridae;scombridae;Poisson;Scombridae
+738;Églefin de Norvège;#haddock-norway#;Poisson;Églefin de Norvège
+739;Tacaud norvégien;#pout-norway#;Poisson;Tacaud norvégien
+740;Palmier à huile;huile de palme;Plante;Palmier à huile
+741;Palme de sagou;palmier-sago;Plante;Palme de sagou
+742;Persimmon;#persimmon#;Fruit;Persimmon
+743;Sandre;#perch-pike#;Poisson;Sandre
+744;Pleuronectidae;pleuronectidae;Poisson;Pleuronectidae
+745;Lagopède des rochers;lagopède;Viande;Lagopède des rochers
+746;Perche du Pacifique;#perche-pacifique#;Poisson;Perche du Pacifique
+747;Salsifis noir;salsifis noir;Plante;Salsifis noir
+748;Phoque véritable;#phoque#;Fruits de mer;Phoque véritable
+749;Algues rouges;algue-rouge;Fruits de mer;Algues rouges
+750;Kombu;kombu;Fruits de mer;Kombu
+751;Escargot;escargot;Viande;Escargot
+752;Vraie sole;sole;Poisson;Vraie sole
+753;Poisson-chat;#poisson-chat;Poisson;Poisson-chat
+754;Chardon;chardon;Plantes;Chardon
+755;Thon commun;#thon;Poisson;Thon commun
+756;Cetacea;cétacés;Poisson;Cetacea
+757;Columbidae;columbidae;Viande;Columbidae
+758;Conque;conque;Poisson;Conque
+759;Vin de baies;baies-vin;Boissons alcoolisées;Vin de baies
+762;Vodka;vodka;Boissons alcoolisées;Vodka
+763;Glace;crème glacée;Plat;Glace
+764;Vermouth;vermouth;Boissons alcoolisées;Vermouth
+765;Vin de Madère;madère;Boisson alcoolisée;Vin de Madère
+766;Nougat;nougat;Plat;Nougat
+767;Caramel;caramel;Plat;Caramel
+768;Gâteau;gâteau;Plat;Gâteau
+769;Pizza;pizza;Plat;Pizza
+770;Ymer;ymer;Produits laitiers;Ymer
+772;Pâtisserie;pâtisserie;Assiette;Pâtisserie
+773;DragÌ©e;dragÌ©e;Plat;DragÌ©e
+774;Chewing-gum;chewing-gum;Plat;Chewing-gum
+775;Massepain;pâte d'amande;Plat;Massepain
+776;Sauce salade;vinaigrette;Plat;Sauce salade
+778;Sel;sel;Additif;Sel
+780;Crème;crème;Produits laitiers;Crème
+781;Sucre;sucre;Additif;Sucre
+782;Saucisse;saucisse;Vaisselle;Saucisse
+783;Boulette de viande;boulette de viande;Dish;Boulette de viande
+784;Pate;pâté;Vaisselle;Pate
+786;Bouillon de viande;bouillon;Plat;Bouillon de viande
+788;Lactosérum;petit-lait;Produits laitiers;Lactosérum
+789;Caséine;caséine;Additif;Caséine
+791;Agent levant;agent levant;Additif;Agent levant
+792;Guimauve;guimauve;Boulangerie;Guimauve
+793;Gélatine;gélatine;Additif;Gélatine
+794;Eau;"eau ; glace";Additif;Eau
+796;Lait Humain;lait humain;Produits laitiers;Lait Humain
+799;Boulette;boulette;Vaisselle;Boulette
+800;Soupe;soupe;Plats;Soupe
+803;Sirop;sirop;Additif;Sirop
+805;Rémoulade;rémoulade;Vaisselle;Rémoulade
+806;Pâte à tartiner au chocolat;pâte à tartiner au chocolat;Plante;Pâte à tartiner au chocolat
+807;Gomme aux fruits;gomme de fruit;Plats cuisinés;Gomme aux fruits
+810;Meringue;meringue;Boulangerie;Meringue
+814;Beurre de cacao;beurre de cacao;Plante;Beurre de cacao
+815;Poudre de cacao;poudre de cacao;Usine;Poudre de cacao
+817;Chocolat;chocolat;Usine;Chocolat
+818;Chocolat chaud;"chocolat-chaud ; chocolat-chauffé";Boissons;Chocolat chaud
+820;Kéfir;kéfir;Produits laitiers;Kéfir
+822;Miso;miso;Additif;Miso
+823;Tofu;tofu;Usine;Tofu
+824;Zwieback;zwieback;Vaisselle;Zwieback
+825;Roe;œufs de poisson;Poisson;Roe
+826;Cichlidae;cichlidés;Poisson;Cichlidae
+827;Glaçage;glaçage;Additif;Glaçage
+828;Snack bar;snack;Plats cuisinés;Snack bar
+829;Tortue verte;tortue;Viande;Tortue verte
+831;Burrito;burrito;Plats cuisinés;Burrito
+832;Hamburger;hamburger;Plat;Hamburger
+834;Taco;taco;Plat;Taco
+835;Tortilla;tortilla;Assiette;Tortilla
+836;Nachos;nachos;Assiette;Nachos
+837;Salade;salade;Assiette;Salade
+839;Dulce de leche;dulce de leche;Produits laitiers;Dulce de leche
+840;Garniture;garniture;Additif;Garniture
+841;Flan sucré;crème anglaise;Produits laitiers;Flan sucré
+842;Roulé aux oeufs;nems;Vaisselle;Roulé aux oeufs
+843;Coeur de palmier;cœur de palmier;Légumes;Coeur de palmier
+845;Chip de pomme de terre;pommes de terre-frites;Boulangerie;Chip de pomme de terre
+846;Tortilla chip;tortilla-chip;Boulangerie;Tortilla chip
+847;Chip de maïs;puce de maïs;Boulangerie;Chip de maïs
+848;Thé à l'hibiscus;#tea-hibiscus#;Boisson;Thé à l'hibiscus
+849;Ragoût;ragoût;Vaisselle;Ragoût
+850;Dessert à la gélatine;gélatine;Additif;Dessert à la gélatine
+851;Junket;junket;Produits laitiers;Junket
+852;Falafel;falafel;Plats cuisinés;Falafel
+853;Pain frit;#fry-bread#;Plat;Pain frit
+855;Lasagnes;lasagnes;Vaisselle;Lasagnes
+856;Morchella;morchella;Champignon;Morchella
+857;Pancake;crêpe;Vaisselle;Pancake
+858;Pectine;pectine;Additif;Pectine
+859;Pudding;pudding;Plats cuisinés;Pudding
+860;Gaufre;gaufre;Vaisselle;Gaufre
+861;Lait de soja;"soja-laiton ; soja-laiton";Boisson;Lait de soja
+862;Pain de viande;viande-pain;Vaisselle;Pain de viande
+863;Cocktail;cocktail;Boisson;Cocktail
+864;Couscous;couscous;Assiette;Couscous
+865;Boulgour;boulgour;Céréales;Boulgour
+867;Café moka;moka;Boisson;Café moka
+868;Chimichanga;chimichanga;Plat;Chimichanga
+869;Semoule;"semoule ; sooji";Céréales;Semoule
+870;Tapioca perlé;tapioca;Légumes;Tapioca perlé
+871;Tostada;tostada;Assiette;Tostada
+872;Quesadilla;quesadilla;Plat;Quesadilla
+873;Pomme de terre au four;pomme de terre au four;Plat;Pomme de terre au four
+874;Hot dog;hot-dog;Assiette;Hot dog
+875;Tartinade;tartinade;Additif;Tartinade
+876;Enchilada;enchilada;Dish;Enchilada
+880;Ketchup;#ketchup#;Additif;Ketchup
+882;Adobo;#adobo#;Vaisselle;Adobo
+884;Melon cornu;corne de melon;Fruit;Melon cornu
+885;Hushpuppy;hushpuppy;Plats cuisinés;Hushpuppy
+886;Jus de fruits;jus de fruits;Boisson;Jus de fruits
+887;Relish;relish;Plats cuisinés;Relish
+889;Salade de fruits;salade de fruits;Plat;Salade de fruits
+890;Yogourt de soja;"yogourt de soja ; yogourt de soja";Plante;Yogourt de soja
+893;Coupe froide;coupe froide;Assiette;Coupe froide
+894;Noix mélangées;noix mélangées;Noix et graines;Noix mélangées
+895;Palmier babassu;palme-babassu;Plante;Palmier babassu
+897;Karité;karité;Plante;Karité
+898;Camélia oléagineux;camélia;Plante;Camélia oléagineux
+899;Ucuhuba;ucuhuba;Plante;Ucuhuba
+900;Pâte phyllo;#phyllo#;Boulangerie;Pâte phyllo
+901;Huile de cuisson;#huile de cuisson#;Additif;Huile de cuisson
+902;Croûte à tarte;#pie-croute#;Boulangerie;Croûte à tarte
+904;Tarte;tarte;Assiette;Tarte
+905;Shortening;shortening;Additif;Shortening
+906;Crème de soja;#crème soja;Vaisselle;Crème de soja
+907;Cornet de crème glacée;cornet de crème glacée;Assiette;Cornet de crème glacée
+908;Mélasse;"mélasse ; mélasse";Additif;Mélasse
+909;Nance;nance;Fruit;Nance
+911;Natto;natto;Vaisselle;Natto
+912;Ravioli;ravioli;Assiette;Ravioli
+913;Scrapple;scrapple;Plat;Scrapple
+915;Succotash;succotash;Assiette;Succotash
+916;Tamale;tamale;Assiette;Tamale
+917;Gâteau de riz;#rice-cake#;Assiette;Gâteau de riz
+918;Fougère arboricole;arbre de fougère;Plante;Fougère arboricole
+919;Lait évaporé;lait-évaporé;Produits laitiers;Lait évaporé
+920;Farine;#flour#;Céréales;Farine
+921;Akutaq;akutaq;Vaisselle;Akutaq
+923;Pain pita;#pain-pita#;Boulangerie;Pain pita
+924;Focaccia;focaccia;Boulangerie;Focaccia
+925;Bagel;bagel;Boulangerie;Bagel
+927;Pain piki;pain-piki;Boulangerie;Pain piki
+928;Pain français;pain perdu;Boulangerie;Pain français
+929;Pain d'avoine;#pain-avoine;Boulangerie;Pain d'avoine
+930;Pain de pommes de terre;pain-pomme de terre;Boulangerie;Pain de pommes de terre
+931;Pain de maïs;#maïs-pain#;Maize;Pain de maïs
+932;Gruaux de maïs;maïs-grain;Maïs;Gruaux de maïs
+933;Pain multigrains;#pain-multigrain#;Boulangerie;Pain multigrains
+934;Pain de riz;pain-riz;Boulangerie;Pain de riz
+935;Pan dulce;pan dulce;Boulangerie;Pan dulce
+936;Pain aux raisins;#pain-raisin#;Boulangerie;Pain aux raisins
+937;Papier Wonton;emballage wonton;Boulangerie;Papier Wonton
+938;Mélange de fruits et légumes;mélange de sentiers;Vaisselle;Mélange de fruits et légumes
+939;Thé au fil vert;thé-fil de fer;Boisson;Thé au fil vert
+941;Jus de légumes;jus de légumes;Boisson;Jus de légumes
+942;Horchata;horchata;Boisson;Horchata
+943;Boisson gazeuse;boisson gazeuse;Boisson;Boisson gazeuse
+944;Milkshake;milkshake;Boisson;Milkshake
+945;Mousse au chocolat;mousse au chocolat;Boulangerie;Mousse au chocolat
+947;Pupusa;pupusa;Vaisselle;Pupusa
+948;Empanada;empanada;Assiette;Empanada
+949;Arepa;arepa;Assiette;Arepa
+950;Ascidies;ascidies;Fruits de mer;Ascidies
+951;Poisson Gefilte;gefilte;Assiette;Poisson Gefilte
+952;Nénuphar jaune;jaune-nénuphar;Plante;Nénuphar jaune
+953;Burger de poisson;burger de poisson;Plat;Burger de poisson
+955;Pâté en croûte;pot-tarte;Plat;Pâté en croûte
+956;Farce;farce;Additif;Farce
+958;Caramel;fudge;Boulangerie;Caramel
+959;Barre chocolatée;barre chocolatée;Boulangerie;Barre chocolatée
+960;Lait condensé;lait condensé;Produits laitiers;Lait condensé
+961;Margarine;margarine;Additif;Margarine
+963;Houmous;houmous;Vaisselle;Houmous
+964;Feuilletés de pommes de terre;potato-puff;Vaisselle;Feuilletés de pommes de terre
+965;Gratin de pommes de terre;gratin de pommes de terre;Vaisselle;Gratin de pommes de terre
+967;Laurier chinois;bayberry-chinois;Fruit;Laurier chinois
+968;Courgettes vertes;courgette-verte;Légumes;Courgettes vertes
+969;Courgettes;courgette;Légumes;Courgettes
+970;Amélanche;baies-askatoon;Fruit;Amélanche
+971;Cerise de Nankin;cerise-nankin;Fruit;Cerise de Nankin
+972;Courge japonaise;citrouille-japonaise;Fruit;Courge japonaise
+977;Poule de Guinée;pintade-poule;Viande;Poule de Guinée
+978;Cucurbita;cucurbita;Légume;Cucurbita
+979;Huile d'anis;#huile d'anis;Fruit;Huile d'anis
+980;Jus de pomme;jus de pomme;Fruit;Jus de pomme
+981;Lait de coco;lait de coco;Boisson;Lait de coco
+982;Huile de noix de coco;huile de noix de coco;Fruit;Huile de noix de coco
+983;Bière au houblon;bière-houblon;Boisson alcoolisée;Bière au houblon
+984;Jus de citron;jus de citron;Boisson;Jus de citron
+985;Riz brun;riz brun;Céréales;Riz brun
+986;Jus de tomate;#tomato-juice#;Boisson;Jus de tomate
+987;Pâte de tomate;#pâte de tomate#;Légumes;Pâte de tomate
+988;Purée de tomate;#Purée de tomate;Végétal;Purée de tomate
+989;Graines de coriandre;graines de coriandre;Légumes;Graines de coriandre
+990;Lard;"graisse de porc ; saindoux";Viande;Lard
+991;Jambon cru;#ham-cured#;Viande;Jambon cru
+992;Cayenne;"cayenne ; poudre de chile ; chile rouge ; habanero ; harissa ; chile vert ; chile vert ; chile vert ; chile vert ; chile vert ; chile rouge ; chile rouge ; chile rouge";Épice;Cayenne
+993;Levure;levure;Champignon;Levure
+994;Tequila;tequila;Boisson Alcoolisée;Tequila
+995;Choucroute;choucroute;Végétal;Choucroute
+996;Poudre à lever;"poudre à pâte ; bicarbonate de soude";Additif;Poudre à lever
+997;Glutamate monosodique;glutamate monosodique;Additif;Glutamate monosodique
+998;Acide citrique;acide citrique;Additif;Acide citrique
+999;Spray de cuisson;spray de cuisson;Additif;Spray de cuisson
+1000;Gélatine;gélatine;Additif;Gélatine
+1001;Colorant alimentaire;colorant alimentaire;Additif;Colorant alimentaire
+1002;Fumée liquide;fumée liquide;Additif;Fumée liquide
+2000;Garam Masala;garam masala;Épices;poivre noir, macis, cannelle, clou de girofle, cardamome, noix de muscade
+2001;Gingembre Pâte d'ail;gingembre pâte d'ail;Épices;gingembre, ail
+2002;Poudre de graines de coriandre et de cumin;poudre de graines de coriandre et de cumin;Épices;coriandre, cumin
+2003;Chaat Masala;chaat masala;Épice;asafoetida, mangue, sel noir, cayenne, ail, gingembre, graines de sésame, huile de graines de moutarde noire, curcuma, coriandre, laurier, anis, fenouil
+2004;Poudre de Sambar;poudre de sambar;Épice;pois d'Angole, coriandre, pois chiche, cumin, poivre noir, cayenne, gingembre, fenugrec, curcuma
+2005;Chole Masala;chole masala;Épice;cayenne, ail, gingembre, graines de sésame grillées, huile de graines de moutarde noire, curcuma, laurier coriandre, anis, fenouil
+2006;Poudre de Rasam;poudre de rasam;Épice;cayenne, pois d'Angole, cumin, coriandre, poivre noir, feuille de curry
+2007;Tandoori Masala;masala tandoori;Épice;ail, gingembre, clou de girofle, noix de muscade, macis, cumin, coriandre, fenugrec, cannelle, cardamome, poivre noir
+2008;Poudre de curry;poudre de curry;Épice;cardamome, cayenne, cannelle, clou de girofle, coriandre, cumin, fenouil, fenugrec, macis, noix de muscade, poivre noir, graines de pavot, graines de sésame, safran, tamarin, curcuma
+2009;Graines de Pharon Panch;graine de pharon panch;Épice;fenugrec, graine de nigelle, cumin, huile de graine de moutarde noire
+2010;Poudre de poulet Masala;poudre de poulet masala;Épice;baie de laurier, gingembre, cannelle, clou de girofle, poivre noir, coriandre, fenouil, cayenne
+2011;Goda Masala;goda masala;Épice;cardamome, cannelle, clou de girofle, baies de laurier, graines de sésame, coriandre, noix de coco, casse, poivre blanc, poivre noir
+2012;Poudre de Jal Jeera;poudre de jal jeera;Épice;sel noir, mangue, cumin, acide citrique, menthe, poivre noir, gingembre, asafoetida
+2013;Gingembre, ail, feuilles de coriandre;gingembre ail feuille de coriandre;Épice;gingembre, ail, coriandre
+2014;Pulao Masala;pulao masala;Épice;poivre noir, poivre blanc, clou de girofle, cumin, cannelle, cardamome, coriandre
+2015;Dabeli Masala;dabeli masala;Épice;cayenne, coriandre, cannelle, clou de girofle, cumin
+2016;Mélange de gâteaux;mélange à gâteau;Plats;farine, blé, sucre, levure chimique, sel
+2017;Moitié-moitié;moitié moitié;Produits laitiers;lait, crème
+2018;Ale;ale;Boisson Alcoolisée;bière, bière de houblon
+2019;Vermicelles;vermicelle;Plat;farine, blé, eau, sel
+2020;Farine auto levante;farine autoportante;Céréales;farine, sel, levure chimique
+2021;Mayonnaise;mayonnaise;Vaisselle;huile, oeuf, jus de citron
+2022;Sel et poivre;sel et poivre;Additif;sel, poivre
+2023;Croissant;croissant;Vaisselle;farine, blé, beurre, levure
+2024;Pâte feuilletée;pâte feuilletée;Plat;farine, blé, beurre
+2025;Chutney vert;chutney vert;Épice;corriandre, cumin, jus de citron, cayenne
+2026;Assaisonnement Cajun;assaisonnement cajun;Épice;sel, cayenne, ail, origan, paprika, thym, poivre, oignon
+2027;Bouillon de légumes;bouillon de légumes;Vaisselle;oignon, carotte, céleri, échalote, sauge, champignon
+2028;Pâte Tandoori;pâte tandoori;Plat;ail, gingembre, clou de girofle, noix de muscade, macis, cumin, coriandre, fenugrec, cannelle, cardamome, poivre noir, yaourt, jus de citron vert
+2029;Légumes mélangés;mélange de légumes;Légumes;carotte, chou-fleur, maïs, pois, poivron
+2030;Crème de salade;crème de salade;Plat;huile, œuf, vinaigre, eau
+2031;Sauce Worcestershite;sauce worcestershire;Plat;vinaigre de cidre, sauce de soja, eau, sucre, gingembre, moutarde, oignon, ail, cannelle, poivre noir.
+2032;Salade de chou;salade de chou;Plat;chou, vinaigre, huile, sel, mayonnaise, oeuf, eau
+2033;Bouillon de légumes;bouillon de légumes;Légumes;oignon, carotte, céleri, thym, laurier, poivre, tomate, ail.
+2034;Mascarpone;mascarpone;Assiette;crème de fromage, jus de citron, vinaigre
+2035;Fettuccine;fettuccine;Plat;farine, blé, oeufs
+2036;Assaisonnement italien;"assaisonnement à l'italienne ; assaisonnement aux herbes italiennes ; assaisonnement à l'italienne";Épices;basilic, origan, romarin, thym
+2037;Ketchup;ketchup;Plat;ketchup, tomate, sucre, vinaigre, sel, oignon, quatre-épices, coriandre, clou de girofle, cumin, ail, moutarde
+2038;Fettuccine aux épinards;fettuccine aux épinards;Plat;épinards, farine, blé, œufs
+2039;Sauce Hoisin;sauce hoisin;Plat;soja, cayenne, ail
+2040;Sauce barbecue;sauce barbecue;Assiette;vinaigre, tomate, pâte de tomate, purée de tomate, mayonnaise, fumée liquide, oignon, moutarde, poivre, sucre
+2041;Gâteau éponge;gâteau éponge;Assiette;farine, blé, beurre, sucre, œuf, poudre à lever
+2042;Mélange à pâtisserie;mélange à pâtisserie;Assiette;farine, blé, levure, levure chimique, sucre, sel
+2043;Sauce piquante;sauce piquante;Assiette;cayenne, sel, vinaigre
+2044;Mélange de fruits séchés;mélange de fruits secs;Fruit;raisin sec, abricot, datte, groseille, figue
+2045;Mélange de fruits confits;mélange de fruits confits;Fruit;raisin sec, abricot, datte, groseille, figue, sucre
+2046;Gulkand;gulkand;Assiette;rose, sucre
+2047;Pancetta;pancetta;Plat;porc, poivre, sel
+2048;Phyllo;phyllo;Céréales;phyllo, farine, blé
+2049;Croûte à tarte;pâte à tarte;Céréales;pâte à tarte, farine, blé
+2050;Prosciutto;prosciutto;Viande;jambon, jambon cru
+2051;Assaisonnement créole;assaisonnement créole;Épice;oignon, poivron, ail, poivre blanc, origan, cayenne, basilic, poivron, thym, sel
+2052;Poudre de cinq épices chinoises;cinq épices chinoises;Épice;cannelle, anis étoilé, fenouil, poivre, clou de girofle
+2053;Assaisonnement Old Bay;assaisonnement old bay;Épice;baie de laurier, céleri, sel, moutarde, poivre, gingembre, poivron, poivre blanc, noix de muscade, clou de girofle, piment de la Jamaïque, cayenne, macis, cardamome, cannelle...
+2054;Sauce Adobo;sauce adobo;Vaisselle;cayenne, ail, vinaigre de cidre, sel, sucre, cumin
+2055;Miettes de biscuits;"chapelure de biscuit ; biscuit graham";Plat;blé, sucre, miel
+2056;Farine;"farine ; atta";Céréales;farine, blé
+2057;Vinaigrette Ranch;vinaigrette-ranch;Épice;mayonnaise, ail, crème, oignon, ciboulette, sel, persil, poivre, aneth
+2058;Assaisonnement pour volaille;assaisonnement pour volaille;Épice;sauge, thym, marjolaine, romarin, noix de muscade, poivre
+2059;Tahini;tahini;Assiette;sésame, olive
+2060;Herbe de Provence;herbe de provence;Épice;romarin, lavande, fenouil, persil, sarriette d'hiver, origan, thym, estragon, basilic, laurier, marjolaine
+2061;Coquille de tarte;fond de tarte;Assiette;farine, blé, sucre, sel, beurre, shortening, eau
+2062;Adobo;adobo;Plat;cayenne, ail, vinaigre de cidre, sel, sucre, cumin, poulet, adobo
+2063;Purée de tomates;purée de tomates;Légumes;tomate, purée de tomate
+2064;Pâte de tomate;purée de tomates;Légumes;tomate, pâte de tomate
+2065;Ours;ours;Viande;ours-noir, ours-brun, ours-polaire
+2066;Baleine;baleine;Poisson;baleine-béluga, baleine-bowhead
+2067;Corégone;corégone;Poisson;corégone - large, corégone
+2068;Phoque;phoque;Poisson;phoque, phoque annelé, phoque tacheté, phoque barbu
+2069;Thon;thon;Poisson;thon - germon, thon rouge, thon à nageoires jaunes, thon
+2070;Croaçon;crochet;Poisson;croaker-atlantique, croaker tacheté
+2071;Maquereau;maquereau;Poisson;maquereau-atlantique, maquereau-pacifique, maquereau-roi, maquereau-espagnol
+2072;Goberge;goberge;Poisson;goberge-atlantique, goberge-alaska, goberge
+2073;Anchois;anchois;Poisson;anchois-européen, anchois
+2074;Perche;perche;Poisson;perche-pacifique, perche-pike
+2075;Frybread;alevins;Plat;pain frit, farine, blé
+2076;Esturgeon;esturgeon;Poisson;esturgeon-gros, esturgeon
+2077;Thé à l'hibiscus;thé-hibiscus;Plat;thé-hibiscus, eau, sucre
+2078;Cerf;"cerf ; élan";Viande;cerf muletier, cerf, élan, viande
+2079;Pieuvre;poulpe;Fruits de mer;poulpe, poulpe-pacifique
+2080;Pain d'avoine;pain-avoine;Boulangerie;pain-avoine, avoine, pain
+2081;Pain de pita;pain-pita;Boulangerie;pain-pita, pain
+2082;Pain aux raisins;pain-raisin;Boulangerie;pain-raisin, pain, raisin sec
+2083;Pain multigrains;pain-multigrain;Boulangerie;pain-multigrains, graines de lin, pain, avoine
+2084;Pain de maïs;pain de maïs;Boulangerie;pain de maïs, maïs, pain
+2085;Pout;pout;Poisson;pout-océan, pout-norvège
+2086;Hareng;hareng;Poisson;hareng-pacifique, hareng-atlantique
+2087;Éperlan;éperlan;Poisson;éperlan - arc-en-ciel, éperlan
+2088;Crabe;"crabe ; chair de crabe";Fruits de mer;crabe, crabe royal rouge
+2089;Huile de cuisson;"huile de cuisson ; huile végétale";Additif;huile de cuisson, tournesol
+2090;Gâteau de riz;gâteau de riz;Boulangerie;gâteau de riz, riz, farine, blé, huile végétale, etc.
+2091;Truite;truite;Poisson;truite de mer, truite de lac, truite de l'arc-en-ciel
+2092;Homard;homard;Fruits de mer;homard, homard épineux
+2093;Flétan;flétan;Poisson;flétan de l'Atlantique, flétan du Groenland
+2094;Merlan;merlan;Poisson;merlan, merlan bleu
+2095;Buffle;bison;Viande;bison, viande
+2096;Poisson-chat;poisson-chat;Poisson;poisson-chat - canal, poisson-chat
+2097;Saumon;"saumon ; omble chevalier ; cisco ; salmonidés";Poisson;saumon-coho, saumon-atlantique, saumon-chinook, saumon-chun, saumon-rose, saumon-sockeye, saumon, salmonidae, cisco
+2098;Lapin;lapin;Viande;lapin, lapin-européen, viande
+2099;Haddock;églefin;Poisson;haddock, haddock-norvège
+2100;Persimmon;kaki;Fruits;kaki, kaki commun
+2101;Sauce aux pommes;compote de pommes;Plat;compote de pommes, pomme, jus de citron, sucre
+2102;Vinaigre de cidre;"crème de soja ; crème de soja";Plat;crème de soja, lait de soja, huile de cuisson, agave, vinaigre de cidre
