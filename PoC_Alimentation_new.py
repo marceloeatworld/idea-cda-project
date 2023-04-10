@@ -1,5 +1,6 @@
 import random
 from datetime import datetime
+import math
 from fpdf import FPDF
 
 groupes_aliments = {
@@ -299,7 +300,7 @@ fruits_legumes_saisonniers = {
 {"groseille": {"calories": 33, "protéines": 1.4, "lipides": 0.2, "glucides": 5}},
 {"cassis": {"calories": 43, "protéines": 1.4, "lipides": 0.4, "glucides": 8}}
 ],
-      "légumes": [
+      "legumes": [
 {"tomate": {"calories": 18, "protéines": 0.9, "lipides": 0.2, "glucides": 3.5}},
 {"courgette": {"calories": 19, "protéines": 1.2, "lipides": 0.3, "glucides": 3}},
 {"poivron": {"calories": 31, "protéines": 1.3, "lipides": 0.4, "glucides": 5}},
@@ -336,7 +337,7 @@ fruits_legumes_saisonniers = {
 {"grenade": {"calories": 83, "protéines": 1.2, "lipides": 1.2, "glucides": 19}},
 {"cynorhodon": {"calories": 162, "protéines": 1.6, "lipides": 0.7, "glucides": 38}}
 ],
-"légumes": [
+"legumes": [
 {"chou": {"calories": 27, "protéines": 1.4, "lipides": 0.1, "glucides": 5.2}},
 {"potiron": {"calories": 20, "protéines": 1, "lipides": 0.1, "glucides": 4}},
 {"brocoli": {"calories": 34, "protéines": 4, "lipides": 0.4, "glucides": 2.8}},
@@ -598,6 +599,7 @@ date_str = input("Entrez la date (format : JJ/MM/AAAA) : ")
 date = datetime.strptime(date_str, "%d/%m/%Y")
 saison = determiner_saison(date)
 
+
 calories_quotidiennes_str = input("Entrez le nombre de calories quotidiennes souhaitées : ")
 calories_quotidiennes = int(calories_quotidiennes_str)
 
@@ -608,39 +610,56 @@ nombre_de_jours_str = input("Pour combien de jours souhaitez-vous générer des 
 nombre_de_jours = int(nombre_de_jours_str)
 menus = generer_menus(nombre_de_jours, groupes_aliments, saison, vegetarien, calories_quotidiennes)
 
+
 pdf = FPDF()
 pdf.add_page()
 pdf.set_font("Arial", size=12)
 
+
 def print_repas(repas, repas_label):
-    pdf.cell(200, 10, txt=f"{repas_label}:", ln=True)
+    pdf.cell(10)
+    pdf.cell(180, 10, txt=f"{repas_label}:", ln=True)
+
+    aliments_list = []
     for aliment, details in repas.items():
+        aliment_str = f"{details['nom']}"
+
         if 'poids' in details:
-            poids_str = f"{details['poids']}g"
-        else:
-            poids_str = "N/A"
+            aliment_str += f" ({details['poids']}g)"
 
         calories_str = f"{details['calories']} kcal" if 'calories' in details else "N/A"
         proteines_str = f"{details['protéines']}g" if 'protéines' in details else "N/A"
         lipides_str = f"{details['lipides']}g" if 'lipides' in details else "N/A"
         glucides_str = f"{details['glucides']}g" if 'glucides' in details else "N/A"
 
-        pdf.cell(200, 10, txt=f"  - {details['nom']}: (Poids: {poids_str}, Calories: {calories_str}, Protéines: {proteines_str}, Lipides: {lipides_str}, Glucides: {glucides_str})", ln=True)
+        aliments_list.append(f"  - {aliment_str}: Calories: {calories_str}, Protéines: {proteines_str}, Lipides: {lipides_str}, Glucides: {glucides_str}")
+
+    for aliment in aliments_list:
+        pdf.cell(10)
+        pdf.cell(180, 10, txt=aliment, ln=True)
+
+    pdf.cell(10)
+    pdf.cell(180, 10, txt="", ln=True)
 
 for i in range(nombre_de_jours):
-    pdf.cell(200, 10, txt=f"Jour {i+1}:", ln=True, align="C")
-    
+    pdf.cell(10)
+    pdf.cell(180, 10, txt=f"Jour {i+1}:", ln=True, align="C")
+    pdf.cell(10)
+    pdf.cell(180, 10, txt=f"Date : {date.strftime('%d/%m/%Y')}", ln=True, align="R")
+    pdf.cell(10)
+    pdf.cell(180, 10, txt=f"Saison : {saison.capitalize()}", ln=True, align="R")
+
+    pdf.cell(10)
     print_repas(menus['petit_dejeuner'][i], "Petit déjeuner")
     print_repas(menus['dejeuner'][i], "Déjeuner")
     print_repas(menus['collation'][i], "Collation")
     print_repas(menus['diner'][i], "Dîner")
     print_repas(menus['boisson'][i], "Boisson")
+    pdf.cell(10)
+    pdf.cell(180, 10, txt="", ln=True)
     
-    pdf.cell(200, 10, txt="", ln=True)
-
 pdf.output("menus.pdf")
 print("Fichier PDF créé avec succès.")
-
 
 
 """ for i in range(nombre_de_jours):

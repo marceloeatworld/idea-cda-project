@@ -455,6 +455,19 @@ boissons = {
 ],
 }
 
+poissons_saisonniers = {
+   
+        "hiver": ["Lieu noir", "Merlan", "Cabillaud", "Coquilles Saint-Jacques", "Congre", "Grondin", "Lotte","Poulpe", "Merlu", "Mostelle", "Oursins", "Mulet", "Dentex", "Congre"
+                  "Merlan", "Cabillaud", "Flétan", "Bulots", "Éperlan", "Raie", "Morue","Marlin", "Thazard", "Balaou", "Lambi", "Requin", "Carpe rouge", "Liche"],
+        "printemps": ["Bar", "Sole", "Tourteau", "Amandes de mer", "Seiche", "Tacaud", "Turbot","Raie", "Limande", "Homard", "Palourdes", "Langouste", "Étrille", "Grondin"
+                      ,"Loup de mer", "Daurade royale", "Langoustines", "Tellines", "Chapon", "Seiche", "Rascasse","Thon jaune", "Carangue", "Dorade coryphène", "Crabe", "Sériole", "Langouste", "Perche"],
+        "ete": ["Maquereau", "Sardine", "Thon", "Moules", "Langoustine", "Églefin", "Chinchard","Sole", "Plie", "Crevettes grises", "Moules", "Bar", "Aiguillette", "Ormeau",
+                "Espadon", "Thon rouge", "Sardine", "Crevettes roses", "Muge", "Marmite", "Dorade rose","Mahi-mahi", "Barracuda", "Bonite", "Langouste", "Poisson-lune", "Mulet", "Dorade tropicale"],
+        "automne": ["Dorade grise", "Rouget", "Hareng", "Huîtres", "Crevettes roses", "Calamars", "Saumon","Hareng", "Dorade grise", "Saint-Pierre", "Huîtres", "Coquilles Saint-Jacques", "Sepia", "Turbot",
+                    "Sériole", "Rouget", "Anchois", "Palourdes", "Pagre", "Girelle", "Langouste","Vivaneau", "Capitaine", "Coryphène", "Oursins", "Bécune", "Chabot", "Brochet marin"],
+    
+}
+
 def determiner_saison(date):
     if date.month in [3, 4, 5]:
         return "printemps"
